@@ -1,0 +1,141 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">TransactionDate</th><th scope="col">TransactionID</th><th scope="col">Credit</th><th scope="col">Debit</th><th scope="col">Remarks</th><th scope="col">RunningBalance</th>
+		</tr><tr>
+			<td>1/1/2021 1:44:09 PM</td><td>A20210101328713</td><td>515.96</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>10840.44</td>
+		</tr><tr>
+			<td>1/1/2021 1:14:49 PM</td><td>A20210101305824</td><td>205.24</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>10324.48</td>
+		</tr><tr>
+			<td>1/1/2021 1:14:07 PM</td><td>A20210101305283</td><td>0.96</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>10119.24</td>
+		</tr><tr>
+			<td>1/1/2021 11:01:13 AM</td><td>A20210101180179</td><td>2024.33</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>10118.28</td>
+		</tr><tr>
+			<td>1/1/2021 10:52:00 AM</td><td>A20210101170047</td><td>0.96</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>8093.95</td>
+		</tr><tr>
+			<td>1/1/2021 10:10:16 AM</td><td>A20210101124355</td><td>0.96</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>8092.99</td>
+		</tr><tr>
+			<td>1/1/2021 10:05:11 AM</td><td>A20210101118611</td><td>2024.33</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>8092.03</td>
+		</tr><tr>
+			<td>1/1/2021 9:11:27 AM</td><td>A2021010159061</td><td>6066.74</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>6067.70</td>
+		</tr><tr>
+			<td>1/1/2021 9:10:05 AM</td><td>A2021010157585</td><td>0.96</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>0.96</td>
+		</tr><tr>
+			<td>12/31/2020 7:27:46 PM</td><td>A20201231675919</td><td>105.24</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>31242.39</td>
+		</tr><tr>
+			<td>12/31/2020 6:59:03 PM</td><td>A20201231665625</td><td>1011.92</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>31137.15</td>
+		</tr><tr>
+			<td>12/31/2020 3:31:47 PM</td><td>A20201231492738</td><td>205.24</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>30125.23</td>
+		</tr><tr>
+			<td>12/31/2020 3:29:14 PM</td><td>A20201231490336</td><td>0.96</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>29919.99</td>
+		</tr><tr>
+			<td>12/31/2020 3:18:59 PM</td><td>A20201231480451</td><td>1011.92</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>29919.03</td>
+		</tr><tr>
+			<td>12/31/2020 11:55:40 AM</td><td>A20201231263576</td><td>0.96</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>28907.11</td>
+		</tr><tr>
+			<td>12/31/2020 11:54:32 AM</td><td>A20201231262176</td><td>155.24</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>28906.15</td>
+		</tr><tr>
+			<td>12/31/2020 10:30:04 AM</td><td>A20201231161448</td><td>0.96</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>28750.91</td>
+		</tr><tr>
+			<td>12/31/2020 10:18:23 AM</td><td>A20201231148213</td><td>0.96</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>28749.95</td>
+		</tr><tr>
+			<td>12/31/2020 10:17:44 AM</td><td>A20201231147381</td><td>2024.33</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>28748.99</td>
+		</tr><tr>
+			<td>12/31/2020 9:34:41 AM</td><td>A2020123198017</td><td>1011.92</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>26724.66</td>
+		</tr><tr>
+			<td>12/31/2020 8:54:56 AM</td><td>A2020123156461</td><td>0.96</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>25712.74</td>
+		</tr><tr>
+			<td>12/31/2020 8:53:52 AM</td><td>A2020123155448</td><td>2024.33</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>25711.78</td>
+		</tr><tr>
+			<td>12/30/2020 5:06:21 PM</td><td>A20201230590815</td><td>205.24</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>23687.45</td>
+		</tr><tr>
+			<td>12/30/2020 5:05:11 PM</td><td>A20201230589888</td><td>0.96</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>23482.21</td>
+		</tr><tr>
+			<td>12/30/2020 3:19:03 PM</td><td>A20201230491183</td><td>1316.92</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>23481.25</td>
+		</tr><tr>
+			<td>12/30/2020 2:13:27 PM</td><td>A20201230426619</td><td>2024.33</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>22164.33</td>
+		</tr><tr>
+			<td>12/30/2020 12:49:43 PM</td><td>A20201230340433</td><td>8207.22</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>20140.00</td>
+		</tr><tr>
+			<td>12/30/2020 12:13:02 PM</td><td>A20201230300404</td><td>0.96</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>11932.78</td>
+		</tr><tr>
+			<td>12/30/2020 11:40:57 AM</td><td>A20201230261746</td><td>2529.81</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>11931.82</td>
+		</tr><tr>
+			<td>12/29/2020 3:40:17 PM</td><td>A20201229564410</td><td>2324.33</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>9402.01</td>
+		</tr><tr>
+			<td>12/29/2020 3:09:46 PM</td><td>A20201229531278</td><td>7077.22</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>7077.68</td>
+		</tr><tr>
+			<td>12/29/2020 10:39:10 AM</td><td>A20201229192992</td><td>2024.33</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>12571.46</td>
+		</tr><tr>
+			<td>12/28/2020 5:21:27 PM</td><td>A20201228693015</td><td>2004.33</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>10547.13</td>
+		</tr><tr>
+			<td>12/28/2020 4:34:54 PM</td><td>A20201228648131</td><td>2529.81</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>8542.80</td>
+		</tr><tr>
+			<td>12/28/2020 4:04:52 PM</td><td>A20201228612890</td><td>2004.33</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>6012.99</td>
+		</tr><tr>
+			<td>12/27/2020 11:28:52 AM</td><td>A20201227256771</td><td>2004.33</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>4008.66</td>
+		</tr><tr>
+			<td>12/27/2020 11:19:16 AM</td><td>A20201227246932</td><td>2004.33</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>2004.33</td>
+		</tr><tr>
+			<td>12/26/2020 2:17:04 PM</td><td>A20201226551159</td><td>7007.22</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>7007.22</td>
+		</tr><tr>
+			<td>12/26/2020 1:43:31 PM</td><td>A20201226509849</td><td>2024.33</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>4028.66</td>
+		</tr><tr>
+			<td>12/26/2020 1:34:24 PM</td><td>A20201226497843</td><td>2004.33</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>2004.33</td>
+		</tr><tr>
+			<td>12/26/2020 11:03:30 AM</td><td>A20201226311330</td><td>2024.33</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>9880.69</td>
+		</tr><tr>
+			<td>12/26/2020 10:59:42 AM</td><td>A20201226304138</td><td>800.96</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>7856.36</td>
+		</tr><tr>
+			<td>12/26/2020 10:38:55 AM</td><td>A20201226264318</td><td>3006.74</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>7055.40</td>
+		</tr><tr>
+			<td>12/26/2020 9:00:32 AM</td><td>A2020122689493</td><td>2024.33</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>4048.66</td>
+		</tr><tr>
+			<td>12/25/2020 4:34:20 PM</td><td>A20201225386585</td><td>2024.33</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>2024.33</td>
+		</tr><tr>
+			<td>12/23/2020 4:07:01 PM</td><td>A20201223327103</td><td>105.24</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>3312.22</td>
+		</tr><tr>
+			<td>12/23/2020 4:01:37 PM</td><td>A20201223323462</td><td>200.24</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>3206.98</td>
+		</tr><tr>
+			<td>12/23/2020 1:16:24 PM</td><td>A20201223221523</td><td>3006.74</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>3006.74</td>
+		</tr><tr>
+			<td>12/21/2020 2:34:23 PM</td><td>A20201221280018</td><td>2904.81</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>3405.77</td>
+		</tr><tr>
+			<td>12/21/2020 2:29:28 PM</td><td>A20201221276731</td><td>500.96</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>500.96</td>
+		</tr><tr>
+			<td>12/21/2020 1:36:49 PM</td><td>A20201221241797</td><td>205.24</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>1708.13</td>
+		</tr><tr>
+			<td>12/21/2020 11:15:07 AM</td><td>A20201221132991</td><td>1502.89</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>1502.89</td>
+		</tr><tr>
+			<td>12/20/2020 10:16:11 AM</td><td>A2020122080964</td><td>200.24</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>6168.23</td>
+		</tr><tr>
+			<td>12/19/2020 2:20:40 PM</td><td>A20201219252671</td><td>2254.33</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>5967.99</td>
+		</tr><tr>
+			<td>12/19/2020 10:05:46 AM</td><td>A2020121978120</td><td>1502.89</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>3713.66</td>
+		</tr><tr>
+			<td>12/17/2020 2:56:04 PM</td><td>A20201217303454</td><td>2204.33</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>2210.77</td>
+		</tr><tr>
+			<td>12/12/2020 1:39:15 PM</td><td>A20201212242502</td><td>400.24</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>13016.44</td>
+		</tr><tr>
+			<td>12/7/2020 8:09:17 PM</td><td>A20201207476103</td><td>800.96</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>12616.20</td>
+		</tr><tr>
+			<td>12/6/2020 3:57:01 PM</td><td>A20201206299473</td><td>200.24</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>11815.24</td>
+		</tr><tr>
+			<td>12/5/2020 11:33:28 AM</td><td>A20201205181529</td><td>2004.33</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>11615.00</td>
+		</tr><tr>
+			<td>12/4/2020 4:37:37 PM</td><td>A20201204379442</td><td>200.24</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>9610.67</td>
+		</tr><tr>
+			<td>11/29/2020 5:53:04 PM</td><td>A20201129299954</td><td>500.96</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>9410.43</td>
+		</tr><tr>
+			<td>11/27/2020 12:47:58 PM</td><td>A20201127193245</td><td>500.96</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>8909.47</td>
+		</tr><tr>
+			<td>11/25/2020 7:36:46 PM</td><td>A20201125414296</td><td>1902.89</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>8408.51</td>
+		</tr><tr>
+			<td>11/25/2020 10:19:07 AM</td><td>A20201125113423</td><td>500.96</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>6505.62</td>
+		</tr><tr>
+			<td>11/20/2020 12:38:39 PM</td><td>A20201120233183</td><td>5006.74</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>6004.66</td>
+		</tr><tr>
+			<td>11/19/2020 7:54:56 PM</td><td>A20201119422580</td><td>1001.92</td><td>0.00</td><td>Credit_Retailer_Aeps_Amount_Commission</td><td>1001.92</td>
+		</tr>
+	</table>
+</div>

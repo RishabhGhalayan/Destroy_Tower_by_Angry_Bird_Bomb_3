@@ -1,0 +1,1627 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">TransactionDate</th><th scope="col">TransactionID</th><th scope="col">Remarks</th><th scope="col">Credit</th><th scope="col">Debit</th><th scope="col">RunningBalance</th>
+		</tr><tr>
+			<td>12/31/2020 8:37:30 PM</td><td>T2020123120985</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>50000.00</td><td>57119.81</td>
+		</tr><tr>
+			<td>12/31/2020 8:37:30 PM</td><td>T2020123120985</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>107119.81</td>
+		</tr><tr>
+			<td>12/31/2020 5:27:15 PM</td><td>T2020123115217</td><td>Retailer Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>50000.00</td><td>107119.81</td>
+		</tr><tr>
+			<td>12/31/2020 5:27:15 PM</td><td>T2020123115217</td><td>Service Charge for Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>0.00</td><td>157119.81</td>
+		</tr><tr>
+			<td>12/31/2020 5:26:07 PM</td><td>T2020123115186</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>40000.00</td><td>157119.81</td>
+		</tr><tr>
+			<td>12/31/2020 5:26:07 PM</td><td>T2020123115186</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>197119.81</td>
+		</tr><tr>
+			<td>12/31/2020 5:25:30 PM</td><td>T2020123114439</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>197119.81</td>
+		</tr><tr>
+			<td>12/31/2020 5:25:30 PM</td><td>T2020123114439</td><td>ea56de46e2010c4494c65609ddca0Topup received </td><td>100000.00</td><td>0.00</td><td>197119.81</td>
+		</tr><tr>
+			<td>12/31/2020 4:53:11 PM</td><td>T2020123114235</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>97119.81</td>
+		</tr><tr>
+			<td>12/31/2020 4:53:11 PM</td><td>T2020123114235</td><td>Mobile:8199999772  Bank Reference No:698413308442  Topup Date and Time:12/31/2020 4:53:11 PM Topup received </td><td>80000.00</td><td>0.00</td><td>97119.81</td>
+		</tr><tr>
+			<td>12/31/2020 3:11:09 PM</td><td>T2020123111435</td><td>Retailer Topup.[8307010003][Irfan Shop]</td><td>0.00</td><td>5000.00</td><td>17119.81</td>
+		</tr><tr>
+			<td>12/31/2020 3:11:09 PM</td><td>T2020123111435</td><td>Service Charge for Topup.[8307010003][Irfan Shop]</td><td>0.00</td><td>0.00</td><td>22119.81</td>
+		</tr><tr>
+			<td>12/31/2020 5:00:29 AM</td><td>3137862412888</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>1.08</td><td>0.00</td><td>22119.81</td>
+		</tr><tr>
+			<td>12/31/2020 4:15:45 AM</td><td>J20201231104999</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.04</td><td>22118.73</td>
+		</tr><tr>
+			<td>12/31/2020 1:18:34 AM</td><td>31888817121863</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>13.20</td><td>0.00</td><td>22118.77</td>
+		</tr><tr>
+			<td>12/31/2020 1:18:04 AM</td><td>31886954121833</td><td>Credit_Distributor_MicroATM_Commission_Yesterday</td><td>0.48</td><td>0.00</td><td>22105.57</td>
+		</tr><tr>
+			<td>12/31/2020 12:05:21 AM</td><td>DC202012312789</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>16.03</td><td>22105.09</td>
+		</tr><tr>
+			<td>12/31/2020 12:05:21 AM</td><td>DC202012312789</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>427.55</td><td>0.00</td><td>22121.12</td>
+		</tr><tr>
+			<td>12/30/2020 6:41:53 PM</td><td>T2020123017457</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>20000.00</td><td>21693.57</td>
+		</tr><tr>
+			<td>12/30/2020 6:41:53 PM</td><td>T2020123017457</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>41693.57</td>
+		</tr><tr>
+			<td>12/30/2020 5:16:32 PM</td><td>T2020123014882</td><td>Retailer Topup.[9671054786][Yusuf Comm]</td><td>0.00</td><td>39000.00</td><td>41693.57</td>
+		</tr><tr>
+			<td>12/30/2020 5:16:32 PM</td><td>T2020123014882</td><td>Service Charge for Topup.[9671054786][Yusuf Comm]</td><td>0.00</td><td>0.00</td><td>80693.57</td>
+		</tr><tr>
+			<td>12/30/2020 5:16:04 PM</td><td>T2020123014867</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>20000.00</td><td>80693.57</td>
+		</tr><tr>
+			<td>12/30/2020 5:16:04 PM</td><td>T2020123014867</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>100693.57</td>
+		</tr><tr>
+			<td>12/30/2020 4:26:01 PM</td><td>T2020123012791</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>100693.57</td>
+		</tr><tr>
+			<td>12/30/2020 4:26:01 PM</td><td>T2020123012791</td><td>ba60ab6ab867bc62e952889ac41abTopup received </td><td>100000.00</td><td>0.00</td><td>100693.57</td>
+		</tr><tr>
+			<td>12/30/2020 2:31:50 PM</td><td>DBP202012301378</td><td>Debit_Distributor_8199999772</td><td>0.00</td><td>900.00</td><td>693.57</td>
+		</tr><tr>
+			<td>12/30/2020 2:31:14 PM</td><td>T2020123010703REV</td><td>Retailer [8685048773] Topup Reversal</td><td>600.00</td><td>0.00</td><td>1593.57</td>
+		</tr><tr>
+			<td>12/30/2020 2:29:50 PM</td><td>T2020123010685REV</td><td>Retailer [8685048773] Topup Reversal</td><td>300.00</td><td>0.00</td><td>993.57</td>
+		</tr><tr>
+			<td>12/30/2020 2:27:27 PM</td><td>T2020123010658</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>50000.00</td><td>693.57</td>
+		</tr><tr>
+			<td>12/30/2020 2:27:27 PM</td><td>T2020123010658</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>50693.57</td>
+		</tr><tr>
+			<td>12/30/2020 1:18:34 PM</td><td>T202012308721</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>50693.57</td>
+		</tr><tr>
+			<td>12/30/2020 1:18:34 PM</td><td>T202012308721</td><td>Mobile:8199999772  Bank Reference No:698439029315.6  Topup Date and Time:12/30/2020 1:18:34 PM Topup received </td><td>50000.00</td><td>0.00</td><td>50693.57</td>
+		</tr><tr>
+			<td>12/30/2020 12:18:28 PM</td><td>T202012306919</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>17000.00</td><td>693.57</td>
+		</tr><tr>
+			<td>12/30/2020 12:18:28 PM</td><td>T202012306919</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>17693.57</td>
+		</tr><tr>
+			<td>12/30/2020 11:28:49 AM</td><td>T202012305289</td><td>Retailer Topup.[9253636001][Anuj Enterprises]</td><td>0.00</td><td>20000.00</td><td>17693.57</td>
+		</tr><tr>
+			<td>12/30/2020 11:28:49 AM</td><td>T202012305289</td><td>Service Charge for Topup.[9253636001][Anuj Enterprises]</td><td>0.00</td><td>0.00</td><td>37693.57</td>
+		</tr><tr>
+			<td>12/30/2020 5:00:20 AM</td><td>3888911612823</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>4.00</td><td>0.00</td><td>37693.57</td>
+		</tr><tr>
+			<td>12/30/2020 4:15:48 AM</td><td>J20201230104953</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.14</td><td>37689.57</td>
+		</tr><tr>
+			<td>12/30/2020 1:18:17 AM</td><td>38361557121883</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>12.72</td><td>0.00</td><td>37689.71</td>
+		</tr><tr>
+			<td>12/30/2020 12:05:18 AM</td><td>DC202012302988</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>5.33</td><td>37676.99</td>
+		</tr><tr>
+			<td>12/30/2020 12:05:18 AM</td><td>DC202012302988</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>142.06</td><td>0.00</td><td>37682.32</td>
+		</tr><tr>
+			<td>12/29/2020 8:38:08 PM</td><td>T2020122922441</td><td>Retailer Topup.[9050848382][Deepak Communation]</td><td>0.00</td><td>8000.00</td><td>37540.26</td>
+		</tr><tr>
+			<td>12/29/2020 8:38:08 PM</td><td>T2020122922441</td><td>Service Charge for Topup.[9050848382][Deepak Communation]</td><td>0.00</td><td>0.00</td><td>45540.26</td>
+		</tr><tr>
+			<td>12/29/2020 6:17:02 PM</td><td>T2020122918042</td><td>Retailer Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>50000.00</td><td>45540.26</td>
+		</tr><tr>
+			<td>12/29/2020 6:17:02 PM</td><td>T2020122918042</td><td>Service Charge for Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>0.00</td><td>95540.26</td>
+		</tr><tr>
+			<td>12/29/2020 5:57:46 PM</td><td>T2020122917431</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>50000.00</td><td>95540.26</td>
+		</tr><tr>
+			<td>12/29/2020 5:57:46 PM</td><td>T2020122917431</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>145540.26</td>
+		</tr><tr>
+			<td>12/29/2020 5:23:05 PM</td><td>T2020122916436</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>44000.00</td><td>145540.26</td>
+		</tr><tr>
+			<td>12/29/2020 5:23:05 PM</td><td>T2020122916436</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>189540.26</td>
+		</tr><tr>
+			<td>12/29/2020 2:41:27 PM</td><td>T2020122910193</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>189540.26</td>
+		</tr><tr>
+			<td>12/29/2020 2:41:27 PM</td><td>T2020122910193</td><td>2b61a1a5d0bf41d6ae452273624f3Topup received </td><td>120000.00</td><td>0.00</td><td>189540.26</td>
+		</tr><tr>
+			<td>12/29/2020 12:52:54 PM</td><td>T202012298701</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>30000.00</td><td>69540.26</td>
+		</tr><tr>
+			<td>12/29/2020 12:52:54 PM</td><td>T202012298701</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>99540.26</td>
+		</tr><tr>
+			<td>12/29/2020 11:58:51 AM</td><td>T202012296887</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>99540.26</td>
+		</tr><tr>
+			<td>12/29/2020 11:58:51 AM</td><td>T202012296887</td><td>Mobile:8199999772  Bank Reference No:698421830015.6  Topup Date and Time:12/29/2020 11:58:51 AM Topup received </td><td>90000.00</td><td>0.00</td><td>99540.26</td>
+		</tr><tr>
+			<td>12/29/2020 5:00:24 AM</td><td>2973482712877</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>1.90</td><td>0.00</td><td>9540.26</td>
+		</tr><tr>
+			<td>12/29/2020 4:15:47 AM</td><td>J20201229105018</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.06</td><td>9538.36</td>
+		</tr><tr>
+			<td>12/29/2020 2:00:02 AM</td><td>DD20201229334</td><td>Credit_Distributor_DMT_Remittance_TDS_Yesterday_Reversal</td><td>0.29</td><td>0.00</td><td>9538.42</td>
+		</tr><tr>
+			<td>12/29/2020 2:00:02 AM</td><td>DD20201229334</td><td>Debit_Distributor_DMT_Remittance_Commission_Yesterday_Reversal</td><td>0.00</td><td>7.60</td><td>9538.13</td>
+		</tr><tr>
+			<td>12/29/2020 1:18:13 AM</td><td>29448568121843</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>15.60</td><td>0.00</td><td>9545.73</td>
+		</tr><tr>
+			<td>12/29/2020 1:18:04 AM</td><td>29685239121838</td><td>Credit_Distributor_MicroATM_Commission_Yesterday</td><td>0.72</td><td>0.00</td><td>9530.13</td>
+		</tr><tr>
+			<td>12/29/2020 12:05:01 AM</td><td>DC20201229146</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>9.54</td><td>9529.41</td>
+		</tr><tr>
+			<td>12/29/2020 12:05:01 AM</td><td>DC20201229146</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>254.49</td><td>0.00</td><td>9538.95</td>
+		</tr><tr>
+			<td>12/28/2020 7:44:51 PM</td><td>BBPSPAYU202012285363233146439436129</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9991721970</td><td>0.00</td><td>0.02</td><td>9284.46</td>
+		</tr><tr>
+			<td>12/28/2020 7:44:51 PM</td><td>BBPSPAYU202012285363233146439436129</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9991721970</td><td>0.50</td><td>0.00</td><td>9284.48</td>
+		</tr><tr>
+			<td>12/28/2020 7:40:24 PM</td><td>BBPSPAYU202012286940390976873058643</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9991721970</td><td>0.00</td><td>0.02</td><td>9283.98</td>
+		</tr><tr>
+			<td>12/28/2020 7:40:24 PM</td><td>BBPSPAYU202012286940390976873058643</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9991721970</td><td>0.50</td><td>0.00</td><td>9284.00</td>
+		</tr><tr>
+			<td>12/28/2020 6:44:08 PM</td><td>BBPSPAYU202012285749743809582735253</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8053571136</td><td>0.00</td><td>0.02</td><td>9283.50</td>
+		</tr><tr>
+			<td>12/28/2020 6:44:08 PM</td><td>BBPSPAYU202012285749743809582735253</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8053571136</td><td>0.50</td><td>0.00</td><td>9283.52</td>
+		</tr><tr>
+			<td>12/28/2020 5:10:35 PM</td><td>T2020122817454</td><td>Retailer Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>30000.00</td><td>9283.02</td>
+		</tr><tr>
+			<td>12/28/2020 5:10:35 PM</td><td>T2020122817454</td><td>Service Charge for Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>0.00</td><td>39283.02</td>
+		</tr><tr>
+			<td>12/28/2020 4:58:26 PM</td><td>T2020122817068</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>30000.00</td><td>39283.02</td>
+		</tr><tr>
+			<td>12/28/2020 4:58:26 PM</td><td>T2020122817068</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>69283.02</td>
+		</tr><tr>
+			<td>12/28/2020 4:49:29 PM</td><td>BBPSPAYU202012285262163157101916360</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9996466547</td><td>0.00</td><td>0.02</td><td>69283.02</td>
+		</tr><tr>
+			<td>12/28/2020 4:49:29 PM</td><td>BBPSPAYU202012285262163157101916360</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9996466547</td><td>0.50</td><td>0.00</td><td>69283.04</td>
+		</tr><tr>
+			<td>12/28/2020 12:03:39 PM</td><td>BBPSPAYU202012285579191787893095046</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9306486415</td><td>0.00</td><td>0.02</td><td>69282.54</td>
+		</tr><tr>
+			<td>12/28/2020 12:03:39 PM</td><td>BBPSPAYU202012285579191787893095046</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9306486415</td><td>0.50</td><td>0.00</td><td>69282.56</td>
+		</tr><tr>
+			<td>12/28/2020 10:09:42 AM</td><td>T202012283155</td><td>Retailer Topup.[9671054786][Yusuf Comm]</td><td>0.00</td><td>34000.00</td><td>69282.06</td>
+		</tr><tr>
+			<td>12/28/2020 10:09:42 AM</td><td>T202012283155</td><td>Service Charge for Topup.[9671054786][Yusuf Comm]</td><td>0.00</td><td>0.00</td><td>103282.06</td>
+		</tr><tr>
+			<td>12/28/2020 5:00:21 AM</td><td>2856339512838</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>7.60</td><td>0.00</td><td>103282.06</td>
+		</tr><tr>
+			<td>12/28/2020 4:15:46 AM</td><td>J20201228104850</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.29</td><td>103274.46</td>
+		</tr><tr>
+			<td>12/28/2020 1:19:34 AM</td><td>28865615121937</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>20.16</td><td>0.00</td><td>103274.75</td>
+		</tr><tr>
+			<td>12/28/2020 1:18:03 AM</td><td>28162811121838</td><td>Credit_Distributor_MicroATM_Commission_Yesterday</td><td>1.68</td><td>0.00</td><td>103254.59</td>
+		</tr><tr>
+			<td>12/28/2020 12:05:04 AM</td><td>DC20201228526</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>6.45</td><td>103252.91</td>
+		</tr><tr>
+			<td>12/28/2020 12:05:04 AM</td><td>DC20201228526</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>172.05</td><td>0.00</td><td>103259.36</td>
+		</tr><tr>
+			<td>12/27/2020 1:21:53 PM</td><td>T202012277070</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>30000.00</td><td>103087.31</td>
+		</tr><tr>
+			<td>12/27/2020 1:21:53 PM</td><td>T202012277070</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>133087.31</td>
+		</tr><tr>
+			<td>12/27/2020 11:25:11 AM</td><td>T20201227619</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>133087.31</td>
+		</tr><tr>
+			<td>12/27/2020 11:25:11 AM</td><td>T20201227619</td><td>89a2a14bc98498650783047db839cTopup received </td><td>100000.00</td><td>0.00</td><td>133087.31</td>
+		</tr><tr>
+			<td>12/27/2020 5:00:20 AM</td><td>2776267912887</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>4.07</td><td>0.00</td><td>33087.31</td>
+		</tr><tr>
+			<td>12/27/2020 4:15:47 AM</td><td>J20201227104863</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.15</td><td>33083.24</td>
+		</tr><tr>
+			<td>12/27/2020 1:18:52 AM</td><td>27968164121818</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>19.20</td><td>0.00</td><td>33083.39</td>
+		</tr><tr>
+			<td>12/27/2020 1:18:03 AM</td><td>27853688121828</td><td>Credit_Distributor_MicroATM_Commission_Yesterday</td><td>2.16</td><td>0.00</td><td>33064.19</td>
+		</tr><tr>
+			<td>12/27/2020 12:05:14 AM</td><td>DC202012272162</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>11.52</td><td>33062.03</td>
+		</tr><tr>
+			<td>12/27/2020 12:05:14 AM</td><td>DC202012272162</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>307.28</td><td>0.00</td><td>33073.55</td>
+		</tr><tr>
+			<td>12/26/2020 10:26:04 PM</td><td>202012261318460</td><td>Debit_Distributor_DMT_Creditcard_TDS9050712345</td><td>0.00</td><td>0.07</td><td>32766.27</td>
+		</tr><tr>
+			<td>12/26/2020 10:26:04 PM</td><td>202012261318460</td><td>Credit_Distributor_DMT_Creditcard_Commission9050712345</td><td>1.78</td><td>0.00</td><td>32766.34</td>
+		</tr><tr>
+			<td>12/26/2020 9:44:30 PM</td><td>T2020122621051</td><td>Retailer Topup.[8307010003][Irfan Shop]</td><td>0.00</td><td>23000.00</td><td>32764.56</td>
+		</tr><tr>
+			<td>12/26/2020 9:44:30 PM</td><td>T2020122621051</td><td>Service Charge for Topup.[8307010003][Irfan Shop]</td><td>0.00</td><td>0.00</td><td>55764.56</td>
+		</tr><tr>
+			<td>12/26/2020 8:37:26 PM</td><td>T2020122619761</td><td>Retailer Topup.[8307010003][Irfan Shop]</td><td>0.00</td><td>35000.00</td><td>55764.56</td>
+		</tr><tr>
+			<td>12/26/2020 8:37:26 PM</td><td>T2020122619761</td><td>Service Charge for Topup.[8307010003][Irfan Shop]</td><td>0.00</td><td>0.00</td><td>90764.56</td>
+		</tr><tr>
+			<td>12/26/2020 2:49:55 PM</td><td>T2020122610384</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>30000.00</td><td>90764.56</td>
+		</tr><tr>
+			<td>12/26/2020 2:49:55 PM</td><td>T2020122610384</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>120764.56</td>
+		</tr><tr>
+			<td>12/26/2020 12:16:20 PM</td><td>BBPSPAYU202012265498262519336789722</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9813868820</td><td>0.00</td><td>0.02</td><td>120764.56</td>
+		</tr><tr>
+			<td>12/26/2020 12:16:20 PM</td><td>BBPSPAYU202012265498262519336789722</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9813868820</td><td>0.50</td><td>0.00</td><td>120764.58</td>
+		</tr><tr>
+			<td>12/26/2020 12:12:59 PM</td><td>BBPSPAYU202012266029766966889666315</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9813868820</td><td>0.00</td><td>0.02</td><td>120764.08</td>
+		</tr><tr>
+			<td>12/26/2020 12:12:59 PM</td><td>BBPSPAYU202012266029766966889666315</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9813868820</td><td>0.50</td><td>0.00</td><td>120764.10</td>
+		</tr><tr>
+			<td>12/26/2020 10:12:54 AM</td><td>T2020122515961</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>120763.60</td>
+		</tr><tr>
+			<td>12/26/2020 10:12:54 AM</td><td>T2020122515961</td><td>a5af0e6ac4c873002ac561bf16037Topup received </td><td>100000.00</td><td>0.00</td><td>120763.60</td>
+		</tr><tr>
+			<td>12/26/2020 9:37:46 AM</td><td>T202012262162</td><td>Retailer Topup.[8307010003][Irfan Shop]</td><td>0.00</td><td>10000.00</td><td>20763.60</td>
+		</tr><tr>
+			<td>12/26/2020 9:37:46 AM</td><td>T202012262162</td><td>Service Charge for Topup.[8307010003][Irfan Shop]</td><td>0.00</td><td>0.00</td><td>30763.60</td>
+		</tr><tr>
+			<td>12/26/2020 5:00:39 AM</td><td>2681858512837</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>3.57</td><td>0.00</td><td>30763.60</td>
+		</tr><tr>
+			<td>12/26/2020 4:15:47 AM</td><td>J20201226104749</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.13</td><td>30760.03</td>
+		</tr><tr>
+			<td>12/26/2020 1:18:27 AM</td><td>26675575121833</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>13.92</td><td>0.00</td><td>30760.16</td>
+		</tr><tr>
+			<td>12/26/2020 12:05:13 AM</td><td>DC202012262162</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>19.99</td><td>30746.24</td>
+		</tr><tr>
+			<td>12/26/2020 12:05:13 AM</td><td>DC202012262162</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>533.02</td><td>0.00</td><td>30766.23</td>
+		</tr><tr>
+			<td>12/25/2020 7:05:56 PM</td><td>T2020122516305</td><td>Retailer Topup.[9050848382][Deepak Communation]</td><td>0.00</td><td>3500.00</td><td>30233.21</td>
+		</tr><tr>
+			<td>12/25/2020 7:05:56 PM</td><td>T2020122516305</td><td>Service Charge for Topup.[9050848382][Deepak Communation]</td><td>0.00</td><td>0.00</td><td>33733.21</td>
+		</tr><tr>
+			<td>12/25/2020 6:50:30 PM</td><td>T2020122515827</td><td>Retailer Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>50000.00</td><td>33733.21</td>
+		</tr><tr>
+			<td>12/25/2020 6:50:30 PM</td><td>T2020122515827</td><td>Service Charge for Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>0.00</td><td>83733.21</td>
+		</tr><tr>
+			<td>12/25/2020 4:58:00 PM</td><td>T2020122512911</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>50000.00</td><td>83733.21</td>
+		</tr><tr>
+			<td>12/25/2020 4:58:00 PM</td><td>T2020122512911</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>133733.21</td>
+		</tr><tr>
+			<td>12/25/2020 4:57:27 PM</td><td>T2020122512895</td><td>Retailer Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>70000.00</td><td>133733.21</td>
+		</tr><tr>
+			<td>12/25/2020 4:57:27 PM</td><td>T2020122512895</td><td>Service Charge for Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>0.00</td><td>203733.21</td>
+		</tr><tr>
+			<td>12/25/2020 3:45:15 PM</td><td>T2020122511341</td><td>Retailer Topup.[9253636001][Anuj Enterprises]</td><td>0.00</td><td>30000.00</td><td>203733.21</td>
+		</tr><tr>
+			<td>12/25/2020 3:45:15 PM</td><td>T2020122511341</td><td>Service Charge for Topup.[9253636001][Anuj Enterprises]</td><td>0.00</td><td>0.00</td><td>233733.21</td>
+		</tr><tr>
+			<td>12/25/2020 11:57:23 AM</td><td>T202012255757</td><td>Retailer Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>30000.00</td><td>233733.21</td>
+		</tr><tr>
+			<td>12/25/2020 11:57:23 AM</td><td>T202012255757</td><td>Service Charge for Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>0.00</td><td>263733.21</td>
+		</tr><tr>
+			<td>12/25/2020 5:00:34 AM</td><td>2596594712863</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>0.54</td><td>0.00</td><td>263733.21</td>
+		</tr><tr>
+			<td>12/25/2020 4:15:40 AM</td><td>J20201225104636</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.02</td><td>263732.67</td>
+		</tr><tr>
+			<td>12/25/2020 1:18:27 AM</td><td>25584637121813</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>7.92</td><td>0.00</td><td>263732.69</td>
+		</tr><tr>
+			<td>12/25/2020 12:05:06 AM</td><td>DC20201225731</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>12.93</td><td>263724.77</td>
+		</tr><tr>
+			<td>12/25/2020 12:05:06 AM</td><td>DC20201225731</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>344.87</td><td>0.00</td><td>263737.70</td>
+		</tr><tr>
+			<td>12/24/2020 7:07:28 PM</td><td>BBPSPAYU202012246199272468769814304</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9728920812</td><td>0.00</td><td>0.02</td><td>263392.83</td>
+		</tr><tr>
+			<td>12/24/2020 7:07:28 PM</td><td>BBPSPAYU202012246199272468769814304</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9728920812</td><td>0.50</td><td>0.00</td><td>263392.85</td>
+		</tr><tr>
+			<td>12/24/2020 7:03:17 PM</td><td>T2020122418137</td><td>Retailer Topup.[9253636001][Anuj Enterprises]</td><td>0.00</td><td>18000.00</td><td>263392.35</td>
+		</tr><tr>
+			<td>12/24/2020 7:03:17 PM</td><td>T2020122418137</td><td>Service Charge for Topup.[9253636001][Anuj Enterprises]</td><td>0.00</td><td>0.00</td><td>281392.35</td>
+		</tr><tr>
+			<td>12/24/2020 5:52:43 PM</td><td>BBPSPAYU202012248245699311138613093</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8813050019</td><td>0.00</td><td>0.02</td><td>281392.35</td>
+		</tr><tr>
+			<td>12/24/2020 5:52:43 PM</td><td>BBPSPAYU202012248245699311138613093</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8813050019</td><td>0.50</td><td>0.00</td><td>281392.37</td>
+		</tr><tr>
+			<td>12/24/2020 4:52:19 PM</td><td>T2020122414070</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>90000.00</td><td>281391.87</td>
+		</tr><tr>
+			<td>12/24/2020 4:52:19 PM</td><td>T2020122414070</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>371391.87</td>
+		</tr><tr>
+			<td>12/24/2020 4:38:09 PM</td><td>T2020122413697</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>371391.87</td>
+		</tr><tr>
+			<td>12/24/2020 4:38:09 PM</td><td>T2020122413697</td><td>Mobile:8199999772  Bank Reference No:698451149310  Topup Date and Time:12/24/2020 4:38:09 PM Topup received </td><td>90000.00</td><td>0.00</td><td>371391.87</td>
+		</tr><tr>
+			<td>12/24/2020 3:27:04 PM</td><td>T2020122411778</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>281391.87</td>
+		</tr><tr>
+			<td>12/24/2020 3:27:04 PM</td><td>T2020122411778</td><td>Mobile:8199999772  Bank Reference No:698446077060  Topup Date and Time:12/24/2020 3:27:04 PM Topup received </td><td>100000.00</td><td>0.00</td><td>281391.87</td>
+		</tr><tr>
+			<td>12/24/2020 1:47:23 PM</td><td>T202012249177</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>82000.00</td><td>181391.87</td>
+		</tr><tr>
+			<td>12/24/2020 1:47:23 PM</td><td>T202012249177</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>263391.87</td>
+		</tr><tr>
+			<td>12/24/2020 12:33:36 PM</td><td>T202012247046</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>87000.00</td><td>263391.87</td>
+		</tr><tr>
+			<td>12/24/2020 12:33:36 PM</td><td>T202012247046</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>350391.87</td>
+		</tr><tr>
+			<td>12/24/2020 12:32:20 PM</td><td>T202012246537</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>350391.87</td>
+		</tr><tr>
+			<td>12/24/2020 12:32:20 PM</td><td>T202012246537</td><td>YES241220202000003142715611Topup received </td><td>200000.00</td><td>0.00</td><td>350391.87</td>
+		</tr><tr>
+			<td>12/24/2020 12:30:50 PM</td><td>T202012246974</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>150391.87</td>
+		</tr><tr>
+			<td>12/24/2020 12:30:50 PM</td><td>T202012246974</td><td>Mobile:8199999772  Bank Reference No:698441696410  Topup Date and Time:12/24/2020 12:30:50 PM Topup received </td><td>150000.00</td><td>0.00</td><td>150391.87</td>
+		</tr><tr>
+			<td>12/24/2020 11:36:43 AM</td><td>T202012245339</td><td>Retailer Topup.[9050848382][Deepak Communation]</td><td>0.00</td><td>15000.00</td><td>391.87</td>
+		</tr><tr>
+			<td>12/24/2020 11:36:43 AM</td><td>T202012245339</td><td>Service Charge for Topup.[9050848382][Deepak Communation]</td><td>0.00</td><td>0.00</td><td>15391.87</td>
+		</tr><tr>
+			<td>12/24/2020 10:38:40 AM</td><td>BBPSPAYU202012245647197098164402846</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9728001921</td><td>0.00</td><td>0.02</td><td>15391.87</td>
+		</tr><tr>
+			<td>12/24/2020 10:38:40 AM</td><td>BBPSPAYU202012245647197098164402846</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9728001921</td><td>0.50</td><td>0.00</td><td>15391.89</td>
+		</tr><tr>
+			<td>12/24/2020 10:34:14 AM</td><td>BBPSPAYU202012246145404090404555946</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8059993317</td><td>0.00</td><td>0.02</td><td>15391.39</td>
+		</tr><tr>
+			<td>12/24/2020 10:34:14 AM</td><td>BBPSPAYU202012246145404090404555946</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8059993317</td><td>0.50</td><td>0.00</td><td>15391.41</td>
+		</tr><tr>
+			<td>12/24/2020 10:24:22 AM</td><td>BBPSPAYU202012247649272344662536786</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8708027103</td><td>0.00</td><td>0.02</td><td>15390.91</td>
+		</tr><tr>
+			<td>12/24/2020 10:24:22 AM</td><td>BBPSPAYU202012247649272344662536786</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8708027103</td><td>0.50</td><td>0.00</td><td>15390.93</td>
+		</tr><tr>
+			<td>12/24/2020 5:00:20 AM</td><td>2487321512853</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>0.61</td><td>0.00</td><td>15390.43</td>
+		</tr><tr>
+			<td>12/24/2020 4:15:40 AM</td><td>J20201224104791</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.02</td><td>15389.82</td>
+		</tr><tr>
+			<td>12/24/2020 2:00:01 AM</td><td>DD20201224282</td><td>Credit_Distributor_DMT_Remittance_TDS_Yesterday_Reversal</td><td>0.14</td><td>0.00</td><td>15389.84</td>
+		</tr><tr>
+			<td>12/24/2020 2:00:01 AM</td><td>DD20201224282</td><td>Debit_Distributor_DMT_Remittance_Commission_Yesterday_Reversal</td><td>0.00</td><td>3.80</td><td>15389.70</td>
+		</tr><tr>
+			<td>12/24/2020 1:18:24 AM</td><td>24288456121878</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>4.32</td><td>0.00</td><td>15393.50</td>
+		</tr><tr>
+			<td>12/24/2020 12:05:07 AM</td><td>DC202012241347</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>11.21</td><td>15389.18</td>
+		</tr><tr>
+			<td>12/24/2020 12:05:07 AM</td><td>DC202012241347</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>299.04</td><td>0.00</td><td>15400.39</td>
+		</tr><tr>
+			<td>12/23/2020 7:18:42 PM</td><td>T2020122319004</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>30000.00</td><td>15101.35</td>
+		</tr><tr>
+			<td>12/23/2020 7:18:42 PM</td><td>T2020122319004</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>45101.35</td>
+		</tr><tr>
+			<td>12/23/2020 6:48:22 PM</td><td>BBPSPAYU202012235850737948577566169</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9355416100</td><td>0.00</td><td>0.02</td><td>45101.35</td>
+		</tr><tr>
+			<td>12/23/2020 6:48:22 PM</td><td>BBPSPAYU202012235850737948577566169</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9355416100</td><td>0.50</td><td>0.00</td><td>45101.37</td>
+		</tr><tr>
+			<td>12/23/2020 6:44:18 PM</td><td>T2020122317890</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>20000.00</td><td>45100.87</td>
+		</tr><tr>
+			<td>12/23/2020 6:44:18 PM</td><td>T2020122317890</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>65100.87</td>
+		</tr><tr>
+			<td>12/23/2020 6:36:51 PM</td><td>BBPSPAYU202012234899768901662865508</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9992934544</td><td>0.00</td><td>0.02</td><td>65100.87</td>
+		</tr><tr>
+			<td>12/23/2020 6:36:51 PM</td><td>BBPSPAYU202012234899768901662865508</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9992934544</td><td>0.50</td><td>0.00</td><td>65100.89</td>
+		</tr><tr>
+			<td>12/23/2020 6:11:15 PM</td><td>BBPSPAYU202012237360677198179753634</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8053727719</td><td>0.00</td><td>0.02</td><td>65100.39</td>
+		</tr><tr>
+			<td>12/23/2020 6:11:15 PM</td><td>BBPSPAYU202012237360677198179753634</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8053727719</td><td>0.50</td><td>0.00</td><td>65100.41</td>
+		</tr><tr>
+			<td>12/23/2020 6:07:47 PM</td><td>BBPSPAYU202012235294856573493932128</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8398010806</td><td>0.00</td><td>0.02</td><td>65099.91</td>
+		</tr><tr>
+			<td>12/23/2020 6:07:47 PM</td><td>BBPSPAYU202012235294856573493932128</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8398010806</td><td>0.50</td><td>0.00</td><td>65099.93</td>
+		</tr><tr>
+			<td>12/23/2020 6:06:00 PM</td><td>BBPSPAYU202012235270070332701552650</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9050262305</td><td>0.00</td><td>0.02</td><td>65099.43</td>
+		</tr><tr>
+			<td>12/23/2020 6:06:00 PM</td><td>BBPSPAYU202012235270070332701552650</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9050262305</td><td>0.50</td><td>0.00</td><td>65099.45</td>
+		</tr><tr>
+			<td>12/23/2020 6:00:20 PM</td><td>BBPSPAYU202012235557973001620799686</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9050060570</td><td>0.00</td><td>0.02</td><td>65098.95</td>
+		</tr><tr>
+			<td>12/23/2020 6:00:20 PM</td><td>BBPSPAYU202012235557973001620799686</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9050060570</td><td>0.50</td><td>0.00</td><td>65098.97</td>
+		</tr><tr>
+			<td>12/23/2020 5:59:08 PM</td><td>BBPSPAYU202012234710098235378191284</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9050060570</td><td>0.00</td><td>0.02</td><td>65098.47</td>
+		</tr><tr>
+			<td>12/23/2020 5:59:08 PM</td><td>BBPSPAYU202012234710098235378191284</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9050060570</td><td>0.50</td><td>0.00</td><td>65098.49</td>
+		</tr><tr>
+			<td>12/23/2020 5:19:04 PM</td><td>BBPSPAYU202012235842921230874100196</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9813303185</td><td>0.00</td><td>0.02</td><td>65097.99</td>
+		</tr><tr>
+			<td>12/23/2020 5:19:04 PM</td><td>BBPSPAYU202012235842921230874100196</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9813303185</td><td>0.50</td><td>0.00</td><td>65098.01</td>
+		</tr><tr>
+			<td>12/23/2020 4:57:57 PM</td><td>BBPSPAYU202012235384302188871862175</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8816847014</td><td>0.00</td><td>0.02</td><td>65097.51</td>
+		</tr><tr>
+			<td>12/23/2020 4:57:57 PM</td><td>BBPSPAYU202012235384302188871862175</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8816847014</td><td>0.50</td><td>0.00</td><td>65097.53</td>
+		</tr><tr>
+			<td>12/23/2020 4:25:43 PM</td><td>BBPSPAYU202012238205303844939174483</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8059093292</td><td>0.00</td><td>0.02</td><td>65097.03</td>
+		</tr><tr>
+			<td>12/23/2020 4:25:43 PM</td><td>BBPSPAYU202012238205303844939174483</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8059093292</td><td>0.50</td><td>0.00</td><td>65097.05</td>
+		</tr><tr>
+			<td>12/23/2020 4:14:18 PM</td><td>BBPSPAYU202012238619907895314866751</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8168500213</td><td>0.00</td><td>0.02</td><td>65096.55</td>
+		</tr><tr>
+			<td>12/23/2020 4:14:18 PM</td><td>BBPSPAYU202012238619907895314866751</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8168500213</td><td>0.50</td><td>0.00</td><td>65096.57</td>
+		</tr><tr>
+			<td>12/23/2020 3:47:01 PM</td><td>T2020122312867</td><td>Retailer Topup.[9050848382][Deepak Communation]</td><td>0.00</td><td>500.00</td><td>65096.07</td>
+		</tr><tr>
+			<td>12/23/2020 3:47:01 PM</td><td>T2020122312867</td><td>Service Charge for Topup.[9050848382][Deepak Communation]</td><td>0.00</td><td>0.00</td><td>65596.07</td>
+		</tr><tr>
+			<td>12/23/2020 3:41:30 PM</td><td>T2020122312751</td><td>Retailer Topup.[9050848382][Deepak Communation]</td><td>0.00</td><td>10000.00</td><td>65596.07</td>
+		</tr><tr>
+			<td>12/23/2020 3:41:30 PM</td><td>T2020122312751</td><td>Service Charge for Topup.[9050848382][Deepak Communation]</td><td>0.00</td><td>0.00</td><td>75596.07</td>
+		</tr><tr>
+			<td>12/23/2020 2:19:31 PM</td><td>BBPSPAYU202012237116833067503096498</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9813212098</td><td>0.00</td><td>0.02</td><td>75596.07</td>
+		</tr><tr>
+			<td>12/23/2020 2:19:31 PM</td><td>BBPSPAYU202012237116833067503096498</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9813212098</td><td>0.50</td><td>0.00</td><td>75596.09</td>
+		</tr><tr>
+			<td>12/23/2020 2:18:24 PM</td><td>BBPSPAYU202012236069840643432510129</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9399300007</td><td>0.00</td><td>0.02</td><td>75595.59</td>
+		</tr><tr>
+			<td>12/23/2020 2:18:24 PM</td><td>BBPSPAYU202012236069840643432510129</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9399300007</td><td>0.50</td><td>0.00</td><td>75595.61</td>
+		</tr><tr>
+			<td>12/23/2020 2:14:27 PM</td><td>BBPSPAYU202012237964612482888186059</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9671284764</td><td>0.00</td><td>0.02</td><td>75595.11</td>
+		</tr><tr>
+			<td>12/23/2020 2:14:27 PM</td><td>BBPSPAYU202012237964612482888186059</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9671284764</td><td>0.50</td><td>0.00</td><td>75595.13</td>
+		</tr><tr>
+			<td>12/23/2020 2:12:28 PM</td><td>T2020122310583</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>30000.00</td><td>75594.63</td>
+		</tr><tr>
+			<td>12/23/2020 2:12:28 PM</td><td>T2020122310583</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>105594.63</td>
+		</tr><tr>
+			<td>12/23/2020 1:49:45 PM</td><td>T202012238483</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>105594.63</td>
+		</tr><tr>
+			<td>12/23/2020 1:49:45 PM</td><td>T202012238483</td><td>01ab3e27c73155ed3bc30749b2aa1Topup received </td><td>100000.00</td><td>0.00</td><td>105594.63</td>
+		</tr><tr>
+			<td>12/23/2020 1:46:11 PM</td><td>BBPSPAYU202012235184753298236009212</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_7027108811</td><td>0.00</td><td>0.02</td><td>5594.63</td>
+		</tr><tr>
+			<td>12/23/2020 1:46:11 PM</td><td>BBPSPAYU202012235184753298236009212</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_7027108811</td><td>0.50</td><td>0.00</td><td>5594.65</td>
+		</tr><tr>
+			<td>12/23/2020 1:26:40 PM</td><td>BBPSPAYU202012234628675752892379838</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9813212098</td><td>0.00</td><td>0.02</td><td>5594.15</td>
+		</tr><tr>
+			<td>12/23/2020 1:26:40 PM</td><td>BBPSPAYU202012234628675752892379838</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9813212098</td><td>0.50</td><td>0.00</td><td>5594.17</td>
+		</tr><tr>
+			<td>12/23/2020 1:25:34 PM</td><td>BBPSPAYU202012235369058246155486979</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9813212098</td><td>0.00</td><td>0.02</td><td>5593.67</td>
+		</tr><tr>
+			<td>12/23/2020 1:25:34 PM</td><td>BBPSPAYU202012235369058246155486979</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9813212098</td><td>0.50</td><td>0.00</td><td>5593.69</td>
+		</tr><tr>
+			<td>12/23/2020 1:24:12 PM</td><td>BBPSPAYU202012235440257860441509015</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9813212098</td><td>0.00</td><td>0.02</td><td>5593.19</td>
+		</tr><tr>
+			<td>12/23/2020 1:24:12 PM</td><td>BBPSPAYU202012235440257860441509015</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9813212098</td><td>0.50</td><td>0.00</td><td>5593.21</td>
+		</tr><tr>
+			<td>12/23/2020 1:19:56 PM</td><td>BBPSPAYU202012236554812887624350486</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8396003546</td><td>0.00</td><td>0.02</td><td>5592.71</td>
+		</tr><tr>
+			<td>12/23/2020 1:19:56 PM</td><td>BBPSPAYU202012236554812887624350486</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8396003546</td><td>0.50</td><td>0.00</td><td>5592.73</td>
+		</tr><tr>
+			<td>12/23/2020 12:58:46 PM</td><td>BBPSPAYU202012235814595701226253988</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9991342004</td><td>0.00</td><td>0.02</td><td>5592.23</td>
+		</tr><tr>
+			<td>12/23/2020 12:58:46 PM</td><td>BBPSPAYU202012235814595701226253988</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9991342004</td><td>0.50</td><td>0.00</td><td>5592.25</td>
+		</tr><tr>
+			<td>12/23/2020 12:56:22 PM</td><td>BBPSPAYU202012237271488073678094057</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9671523482</td><td>0.00</td><td>0.02</td><td>5591.75</td>
+		</tr><tr>
+			<td>12/23/2020 12:56:22 PM</td><td>BBPSPAYU202012237271488073678094057</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9671523482</td><td>0.50</td><td>0.00</td><td>5591.77</td>
+		</tr><tr>
+			<td>12/23/2020 12:42:52 PM</td><td>BBPSPAYU202012236401819157127520249</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9813413829</td><td>0.00</td><td>0.02</td><td>5591.27</td>
+		</tr><tr>
+			<td>12/23/2020 12:42:52 PM</td><td>BBPSPAYU202012236401819157127520249</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9813413829</td><td>0.50</td><td>0.00</td><td>5591.29</td>
+		</tr><tr>
+			<td>12/23/2020 12:27:06 PM</td><td>BBPSPAYU202012237194119765857188545</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9050468100</td><td>0.00</td><td>0.02</td><td>5590.79</td>
+		</tr><tr>
+			<td>12/23/2020 12:27:06 PM</td><td>BBPSPAYU202012237194119765857188545</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9050468100</td><td>0.50</td><td>0.00</td><td>5590.81</td>
+		</tr><tr>
+			<td>12/23/2020 12:21:35 PM</td><td>BBPSPAYU202012236347370701681487374</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9050900461</td><td>0.00</td><td>0.02</td><td>5590.31</td>
+		</tr><tr>
+			<td>12/23/2020 12:21:35 PM</td><td>BBPSPAYU202012236347370701681487374</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9050900461</td><td>0.50</td><td>0.00</td><td>5590.33</td>
+		</tr><tr>
+			<td>12/23/2020 12:15:11 PM</td><td>BBPSPAYU202012238937131082615663580</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8053230976</td><td>0.00</td><td>0.02</td><td>5589.83</td>
+		</tr><tr>
+			<td>12/23/2020 12:15:11 PM</td><td>BBPSPAYU202012238937131082615663580</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8053230976</td><td>0.50</td><td>0.00</td><td>5589.85</td>
+		</tr><tr>
+			<td>12/23/2020 12:13:24 PM</td><td>BBPSPAYU202012236533247602867007584</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9050200238</td><td>0.00</td><td>0.02</td><td>5589.35</td>
+		</tr><tr>
+			<td>12/23/2020 12:13:24 PM</td><td>BBPSPAYU202012236533247602867007584</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9050200238</td><td>0.50</td><td>0.00</td><td>5589.37</td>
+		</tr><tr>
+			<td>12/23/2020 12:07:29 PM</td><td>BBPSPAYU202012238210374531606626450</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9255102680</td><td>0.00</td><td>0.02</td><td>5588.87</td>
+		</tr><tr>
+			<td>12/23/2020 12:07:29 PM</td><td>BBPSPAYU202012238210374531606626450</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9255102680</td><td>0.50</td><td>0.00</td><td>5588.89</td>
+		</tr><tr>
+			<td>12/23/2020 12:05:36 PM</td><td>BBPSPAYU202012235762883199207276275</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9817791621</td><td>0.00</td><td>0.02</td><td>5588.39</td>
+		</tr><tr>
+			<td>12/23/2020 12:05:36 PM</td><td>BBPSPAYU202012235762883199207276275</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9817791621</td><td>0.50</td><td>0.00</td><td>5588.41</td>
+		</tr><tr>
+			<td>12/23/2020 12:04:19 PM</td><td>BBPSPAYU202012236669111506700319717</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9813460397</td><td>0.00</td><td>0.02</td><td>5587.91</td>
+		</tr><tr>
+			<td>12/23/2020 12:04:19 PM</td><td>BBPSPAYU202012236669111506700319717</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9813460397</td><td>0.50</td><td>0.00</td><td>5587.93</td>
+		</tr><tr>
+			<td>12/23/2020 12:03:22 PM</td><td>BBPSPAYU202012236433261486071767171</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9466622152</td><td>0.00</td><td>0.02</td><td>5587.43</td>
+		</tr><tr>
+			<td>12/23/2020 12:03:22 PM</td><td>BBPSPAYU202012236433261486071767171</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9466622152</td><td>0.50</td><td>0.00</td><td>5587.45</td>
+		</tr><tr>
+			<td>12/23/2020 11:55:12 AM</td><td>T202012236434</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>30000.00</td><td>5586.95</td>
+		</tr><tr>
+			<td>12/23/2020 11:55:12 AM</td><td>T202012236434</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>35586.95</td>
+		</tr><tr>
+			<td>12/23/2020 11:50:22 AM</td><td>BBPSPAYU202012235951886217352933349</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8053055890</td><td>0.00</td><td>0.02</td><td>35586.95</td>
+		</tr><tr>
+			<td>12/23/2020 11:50:22 AM</td><td>BBPSPAYU202012235951886217352933349</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8053055890</td><td>0.50</td><td>0.00</td><td>35586.97</td>
+		</tr><tr>
+			<td>12/23/2020 11:31:24 AM</td><td>BBPSPAYU202012236550367986486310133</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9050510723</td><td>0.00</td><td>0.02</td><td>35586.47</td>
+		</tr><tr>
+			<td>12/23/2020 11:31:24 AM</td><td>BBPSPAYU202012236550367986486310133</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9050510723</td><td>0.50</td><td>0.00</td><td>35586.49</td>
+		</tr><tr>
+			<td>12/23/2020 11:29:58 AM</td><td>BBPSPAYU202012238917730498541171449</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9671061240</td><td>0.00</td><td>0.02</td><td>35585.99</td>
+		</tr><tr>
+			<td>12/23/2020 11:29:58 AM</td><td>BBPSPAYU202012238917730498541171449</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9671061240</td><td>0.50</td><td>0.00</td><td>35586.01</td>
+		</tr><tr>
+			<td>12/23/2020 11:25:48 AM</td><td>BBPSPAYU202012236930901590888264525</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9813964591</td><td>0.00</td><td>0.02</td><td>35585.51</td>
+		</tr><tr>
+			<td>12/23/2020 11:25:48 AM</td><td>BBPSPAYU202012236930901590888264525</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9813964591</td><td>0.50</td><td>0.00</td><td>35585.53</td>
+		</tr><tr>
+			<td>12/23/2020 11:19:50 AM</td><td>BBPSPAYU202012236058181849460174091</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9813502101</td><td>0.00</td><td>0.02</td><td>35585.03</td>
+		</tr><tr>
+			<td>12/23/2020 11:19:50 AM</td><td>BBPSPAYU202012236058181849460174091</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9813502101</td><td>0.50</td><td>0.00</td><td>35585.05</td>
+		</tr><tr>
+			<td>12/23/2020 11:18:43 AM</td><td>BBPSPAYU202012238941200275947268512</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9813502101</td><td>0.00</td><td>0.02</td><td>35584.55</td>
+		</tr><tr>
+			<td>12/23/2020 11:18:43 AM</td><td>BBPSPAYU202012238941200275947268512</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9813502101</td><td>0.50</td><td>0.00</td><td>35584.57</td>
+		</tr><tr>
+			<td>12/23/2020 11:17:33 AM</td><td>BBPSPAYU202012239199783064943545895</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9813502101</td><td>0.00</td><td>0.02</td><td>35584.07</td>
+		</tr><tr>
+			<td>12/23/2020 11:17:33 AM</td><td>BBPSPAYU202012239199783064943545895</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9813502101</td><td>0.50</td><td>0.00</td><td>35584.09</td>
+		</tr><tr>
+			<td>12/23/2020 11:15:04 AM</td><td>BBPSPAYU202012234923631425675299095</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9671778705</td><td>0.00</td><td>0.02</td><td>35583.59</td>
+		</tr><tr>
+			<td>12/23/2020 11:15:04 AM</td><td>BBPSPAYU202012234923631425675299095</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9671778705</td><td>0.50</td><td>0.00</td><td>35583.61</td>
+		</tr><tr>
+			<td>12/23/2020 11:05:08 AM</td><td>BBPSPAYU202012236449713931802552570</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_7206303016</td><td>0.00</td><td>0.02</td><td>35583.11</td>
+		</tr><tr>
+			<td>12/23/2020 11:05:08 AM</td><td>BBPSPAYU202012236449713931802552570</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_7206303016</td><td>0.50</td><td>0.00</td><td>35583.13</td>
+		</tr><tr>
+			<td>12/23/2020 11:03:51 AM</td><td>BBPSPAYU202012238122592190710858599</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9813681398</td><td>0.00</td><td>0.02</td><td>35582.63</td>
+		</tr><tr>
+			<td>12/23/2020 11:03:51 AM</td><td>BBPSPAYU202012238122592190710858599</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9813681398</td><td>0.50</td><td>0.00</td><td>35582.65</td>
+		</tr><tr>
+			<td>12/23/2020 11:02:41 AM</td><td>BBPSPAYU202012234796905284965566523</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9813681398</td><td>0.00</td><td>0.02</td><td>35582.15</td>
+		</tr><tr>
+			<td>12/23/2020 11:02:41 AM</td><td>BBPSPAYU202012234796905284965566523</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9813681398</td><td>0.50</td><td>0.00</td><td>35582.17</td>
+		</tr><tr>
+			<td>12/23/2020 11:00:39 AM</td><td>BBPSPAYU202012235544409303991910203</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9813651993</td><td>0.00</td><td>0.02</td><td>35581.67</td>
+		</tr><tr>
+			<td>12/23/2020 11:00:39 AM</td><td>BBPSPAYU202012235544409303991910203</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9813651993</td><td>0.50</td><td>0.00</td><td>35581.69</td>
+		</tr><tr>
+			<td>12/23/2020 10:58:33 AM</td><td>BBPSPAYU202012236148983467570070862</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8813813004</td><td>0.00</td><td>0.02</td><td>35581.19</td>
+		</tr><tr>
+			<td>12/23/2020 10:58:33 AM</td><td>BBPSPAYU202012236148983467570070862</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8813813004</td><td>0.50</td><td>0.00</td><td>35581.21</td>
+		</tr><tr>
+			<td>12/23/2020 10:55:58 AM</td><td>BBPSPAYU202012236463259644255725250</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9355416100</td><td>0.00</td><td>0.02</td><td>35580.71</td>
+		</tr><tr>
+			<td>12/23/2020 10:55:58 AM</td><td>BBPSPAYU202012236463259644255725250</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9355416100</td><td>0.50</td><td>0.00</td><td>35580.73</td>
+		</tr><tr>
+			<td>12/23/2020 10:54:14 AM</td><td>BBPSPAYU202012237758660176867747594</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9813963405</td><td>0.00</td><td>0.02</td><td>35580.23</td>
+		</tr><tr>
+			<td>12/23/2020 10:54:14 AM</td><td>BBPSPAYU202012237758660176867747594</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9813963405</td><td>0.50</td><td>0.00</td><td>35580.25</td>
+		</tr><tr>
+			<td>12/23/2020 10:51:53 AM</td><td>BBPSPAYU202012237112160858673964114</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9671480904</td><td>0.00</td><td>0.02</td><td>35579.75</td>
+		</tr><tr>
+			<td>12/23/2020 10:51:53 AM</td><td>BBPSPAYU202012237112160858673964114</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9671480904</td><td>0.50</td><td>0.00</td><td>35579.77</td>
+		</tr><tr>
+			<td>12/23/2020 10:49:18 AM</td><td>BBPSPAYU202012238245805511233311865</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9050105569</td><td>0.00</td><td>0.02</td><td>35579.27</td>
+		</tr><tr>
+			<td>12/23/2020 10:49:18 AM</td><td>BBPSPAYU202012238245805511233311865</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9050105569</td><td>0.50</td><td>0.00</td><td>35579.29</td>
+		</tr><tr>
+			<td>12/23/2020 10:42:04 AM</td><td>BBPSPAYU202012236154507251063921719</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9050828862</td><td>0.00</td><td>0.02</td><td>35578.79</td>
+		</tr><tr>
+			<td>12/23/2020 10:42:04 AM</td><td>BBPSPAYU202012236154507251063921719</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9050828862</td><td>0.50</td><td>0.00</td><td>35578.81</td>
+		</tr><tr>
+			<td>12/23/2020 10:40:14 AM</td><td>BBPSPAYU202012236980023837859825729</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8930523483</td><td>0.00</td><td>0.02</td><td>35578.31</td>
+		</tr><tr>
+			<td>12/23/2020 10:40:14 AM</td><td>BBPSPAYU202012236980023837859825729</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8930523483</td><td>0.50</td><td>0.00</td><td>35578.33</td>
+		</tr><tr>
+			<td>12/23/2020 10:37:33 AM</td><td>BBPSPAYU202012236008842056787556527</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8816988317</td><td>0.00</td><td>0.02</td><td>35577.83</td>
+		</tr><tr>
+			<td>12/23/2020 10:37:33 AM</td><td>BBPSPAYU202012236008842056787556527</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8816988317</td><td>0.50</td><td>0.00</td><td>35577.85</td>
+		</tr><tr>
+			<td>12/23/2020 10:35:55 AM</td><td>BBPSPAYU202012235592203023174568794</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9050308447</td><td>0.00</td><td>0.02</td><td>35577.35</td>
+		</tr><tr>
+			<td>12/23/2020 10:35:55 AM</td><td>BBPSPAYU202012235592203023174568794</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9050308447</td><td>0.50</td><td>0.00</td><td>35577.37</td>
+		</tr><tr>
+			<td>12/23/2020 10:34:29 AM</td><td>BBPSPAYU202012238978843559761213786</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9050611982</td><td>0.00</td><td>0.02</td><td>35576.87</td>
+		</tr><tr>
+			<td>12/23/2020 10:34:29 AM</td><td>BBPSPAYU202012238978843559761213786</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9050611982</td><td>0.50</td><td>0.00</td><td>35576.89</td>
+		</tr><tr>
+			<td>12/23/2020 10:32:58 AM</td><td>BBPSPAYU202012234849301386067931659</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9050005764</td><td>0.00</td><td>0.02</td><td>35576.39</td>
+		</tr><tr>
+			<td>12/23/2020 10:32:58 AM</td><td>BBPSPAYU202012234849301386067931659</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9050005764</td><td>0.50</td><td>0.00</td><td>35576.41</td>
+		</tr><tr>
+			<td>12/23/2020 10:31:25 AM</td><td>BBPSPAYU202012236239102344917279517</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9050948585</td><td>0.00</td><td>0.02</td><td>35575.91</td>
+		</tr><tr>
+			<td>12/23/2020 10:31:25 AM</td><td>BBPSPAYU202012236239102344917279517</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9050948585</td><td>0.50</td><td>0.00</td><td>35575.93</td>
+		</tr><tr>
+			<td>12/23/2020 10:29:46 AM</td><td>BBPSPAYU202012236557415378140046102</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9050881437</td><td>0.00</td><td>0.02</td><td>35575.43</td>
+		</tr><tr>
+			<td>12/23/2020 10:29:46 AM</td><td>BBPSPAYU202012236557415378140046102</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9050881437</td><td>0.50</td><td>0.00</td><td>35575.45</td>
+		</tr><tr>
+			<td>12/23/2020 10:27:07 AM</td><td>BBPSPAYU202012239007534163925292386</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9050485270</td><td>0.00</td><td>0.02</td><td>35574.95</td>
+		</tr><tr>
+			<td>12/23/2020 10:27:07 AM</td><td>BBPSPAYU202012239007534163925292386</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9050485270</td><td>0.50</td><td>0.00</td><td>35574.97</td>
+		</tr><tr>
+			<td>12/23/2020 10:24:20 AM</td><td>BBPSPAYU202012237052546622451034959</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8813049632</td><td>0.00</td><td>0.02</td><td>35574.47</td>
+		</tr><tr>
+			<td>12/23/2020 10:24:20 AM</td><td>BBPSPAYU202012237052546622451034959</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8813049632</td><td>0.50</td><td>0.00</td><td>35574.49</td>
+		</tr><tr>
+			<td>12/23/2020 10:18:51 AM</td><td>BBPSPAYU202012234900272494837893303</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9050831351</td><td>0.00</td><td>0.02</td><td>35573.99</td>
+		</tr><tr>
+			<td>12/23/2020 10:18:51 AM</td><td>BBPSPAYU202012234900272494837893303</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9050831351</td><td>0.50</td><td>0.00</td><td>35574.01</td>
+		</tr><tr>
+			<td>12/23/2020 10:17:03 AM</td><td>BBPSPAYU202012238186927028499106910</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8053801194</td><td>0.00</td><td>0.02</td><td>35573.51</td>
+		</tr><tr>
+			<td>12/23/2020 10:17:03 AM</td><td>BBPSPAYU202012238186927028499106910</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8053801194</td><td>0.50</td><td>0.00</td><td>35573.53</td>
+		</tr><tr>
+			<td>12/23/2020 10:11:42 AM</td><td>BBPSPAYU202012235382880310752302134</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8814873459</td><td>0.00</td><td>0.02</td><td>35573.03</td>
+		</tr><tr>
+			<td>12/23/2020 10:11:42 AM</td><td>BBPSPAYU202012235382880310752302134</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8814873459</td><td>0.50</td><td>0.00</td><td>35573.05</td>
+		</tr><tr>
+			<td>12/23/2020 1:20:59 AM</td><td>23368643122847</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>14.40</td><td>0.00</td><td>35572.55</td>
+		</tr><tr>
+			<td>12/23/2020 12:05:24 AM</td><td>DC202012232128</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>11.77</td><td>35558.15</td>
+		</tr><tr>
+			<td>12/23/2020 12:05:24 AM</td><td>DC202012232128</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>313.80</td><td>0.00</td><td>35569.92</td>
+		</tr><tr>
+			<td>12/22/2020 9:30:10 PM</td><td>T2020122223588</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>45000.00</td><td>35256.12</td>
+		</tr><tr>
+			<td>12/22/2020 9:30:10 PM</td><td>T2020122223588</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>80256.12</td>
+		</tr><tr>
+			<td>12/22/2020 6:47:14 PM</td><td>BBPSPAYU202012225278034802735441406</td><td>Credit_Distributor_Bill_Payment_Electricity_TDS_Reversal_8053236501</td><td>0.02</td><td>0.00</td><td>80256.14</td>
+		</tr><tr>
+			<td>12/22/2020 6:47:14 PM</td><td>BBPSPAYU202012225278034802735441406</td><td>Debit_Distributor_Bill_Payment_Electricity_Commission_Reversal_8053236501</td><td>0.00</td><td>0.50</td><td>80256.12</td>
+		</tr><tr>
+			<td>12/22/2020 5:35:00 PM</td><td>BBPSPAYU202012225278034802735441406</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8053236501</td><td>0.00</td><td>0.02</td><td>80256.62</td>
+		</tr><tr>
+			<td>12/22/2020 5:35:00 PM</td><td>BBPSPAYU202012225278034802735441406</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8053236501</td><td>0.50</td><td>0.00</td><td>80256.64</td>
+		</tr><tr>
+			<td>12/22/2020 4:52:53 PM</td><td>T2020122215312</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>58000.00</td><td>80256.14</td>
+		</tr><tr>
+			<td>12/22/2020 4:52:53 PM</td><td>T2020122215312</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>138256.14</td>
+		</tr><tr>
+			<td>12/22/2020 4:49:01 PM</td><td>T2020122215219</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>138256.14</td>
+		</tr><tr>
+			<td>12/22/2020 4:49:01 PM</td><td>T2020122215219</td><td>Mobile:8199999772  Bank Reference No:698422596360  Topup Date and Time:12/22/2020 4:49:01 PM Topup received </td><td>90000.00</td><td>0.00</td><td>138256.14</td>
+		</tr><tr>
+			<td>12/22/2020 4:45:57 PM</td><td>BBPSPAYU202012227084110940222472049</td><td>Credit_Distributor_Bill_Payment_Electricity_TDS_Reversal_8053478404</td><td>0.02</td><td>0.00</td><td>48256.16</td>
+		</tr><tr>
+			<td>12/22/2020 4:45:57 PM</td><td>BBPSPAYU202012227084110940222472049</td><td>Debit_Distributor_Bill_Payment_Electricity_Commission_Reversal_8053478404</td><td>0.00</td><td>0.50</td><td>48256.14</td>
+		</tr><tr>
+			<td>12/22/2020 3:26:51 PM</td><td>BBPSPAYU202012227084110940222472049</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8053478404</td><td>0.00</td><td>0.02</td><td>48256.64</td>
+		</tr><tr>
+			<td>12/22/2020 3:26:51 PM</td><td>BBPSPAYU202012227084110940222472049</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8053478404</td><td>0.50</td><td>0.00</td><td>48256.66</td>
+		</tr><tr>
+			<td>12/22/2020 3:24:48 PM</td><td>T2020122212928</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>44000.00</td><td>48256.16</td>
+		</tr><tr>
+			<td>12/22/2020 3:24:48 PM</td><td>T2020122212928</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>92256.16</td>
+		</tr><tr>
+			<td>12/22/2020 2:54:53 PM</td><td>T2020122212133</td><td>Retailer Topup.[9050055019][R P Telecom]</td><td>0.00</td><td>30000.00</td><td>92256.16</td>
+		</tr><tr>
+			<td>12/22/2020 2:54:53 PM</td><td>T2020122212133</td><td>Service Charge for Topup.[9050055019][R P Telecom]</td><td>0.00</td><td>0.00</td><td>122256.16</td>
+		</tr><tr>
+			<td>12/22/2020 2:45:40 PM</td><td>BBPSPAYU202012227830746038548755282</td><td>Credit_Distributor_Bill_Payment_Electricity_TDS_Reversal_8053263198</td><td>0.02</td><td>0.00</td><td>122256.18</td>
+		</tr><tr>
+			<td>12/22/2020 2:45:40 PM</td><td>BBPSPAYU202012227830746038548755282</td><td>Debit_Distributor_Bill_Payment_Electricity_Commission_Reversal_8053263198</td><td>0.00</td><td>0.50</td><td>122256.16</td>
+		</tr><tr>
+			<td>12/22/2020 2:45:32 PM</td><td>BBPSPAYU202012228466342459273032046</td><td>Credit_Distributor_Bill_Payment_Electricity_TDS_Reversal_8930538229</td><td>0.02</td><td>0.00</td><td>122256.68</td>
+		</tr><tr>
+			<td>12/22/2020 2:45:32 PM</td><td>BBPSPAYU202012228466342459273032046</td><td>Debit_Distributor_Bill_Payment_Electricity_Commission_Reversal_8930538229</td><td>0.00</td><td>0.50</td><td>122256.66</td>
+		</tr><tr>
+			<td>12/22/2020 1:58:56 PM</td><td>BBPSPAYU202012228466342459273032046</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8930538229</td><td>0.00</td><td>0.02</td><td>122257.16</td>
+		</tr><tr>
+			<td>12/22/2020 1:58:56 PM</td><td>BBPSPAYU202012228466342459273032046</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8930538229</td><td>0.50</td><td>0.00</td><td>122257.18</td>
+		</tr><tr>
+			<td>12/22/2020 1:37:47 PM</td><td>BBPSPAYU202012227830746038548755282</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8053263198</td><td>0.00</td><td>0.02</td><td>122256.68</td>
+		</tr><tr>
+			<td>12/22/2020 1:37:47 PM</td><td>BBPSPAYU202012227830746038548755282</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8053263198</td><td>0.50</td><td>0.00</td><td>122256.70</td>
+		</tr><tr>
+			<td>12/22/2020 1:37:00 PM</td><td>T202012229850</td><td>Retailer Topup.[8708350399][Bijender Telecom]</td><td>0.00</td><td>3000.00</td><td>122256.20</td>
+		</tr><tr>
+			<td>12/22/2020 1:37:00 PM</td><td>T202012229850</td><td>Service Charge for Topup.[8708350399][Bijender Telecom]</td><td>0.00</td><td>0.00</td><td>125256.20</td>
+		</tr><tr>
+			<td>12/22/2020 1:23:36 PM</td><td>BBPSPAYU202012224945507809404643497</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8396956272</td><td>0.00</td><td>0.02</td><td>125256.20</td>
+		</tr><tr>
+			<td>12/22/2020 1:23:36 PM</td><td>BBPSPAYU202012224945507809404643497</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8396956272</td><td>0.50</td><td>0.00</td><td>125256.22</td>
+		</tr><tr>
+			<td>12/22/2020 1:16:18 PM</td><td>BBPSPAYU202012229055627814603843139</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8708300143</td><td>0.00</td><td>0.02</td><td>125255.72</td>
+		</tr><tr>
+			<td>12/22/2020 1:16:18 PM</td><td>BBPSPAYU202012229055627814603843139</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8708300143</td><td>0.50</td><td>0.00</td><td>125255.74</td>
+		</tr><tr>
+			<td>12/22/2020 1:11:11 PM</td><td>BBPSPAYU202012225500544728463105145</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9050315073</td><td>0.00</td><td>0.02</td><td>125255.24</td>
+		</tr><tr>
+			<td>12/22/2020 1:11:11 PM</td><td>BBPSPAYU202012225500544728463105145</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9050315073</td><td>0.50</td><td>0.00</td><td>125255.26</td>
+		</tr><tr>
+			<td>12/22/2020 1:02:39 PM</td><td>BBPSPAYU202012226786136831761611898</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9050007240</td><td>0.00</td><td>0.02</td><td>125254.76</td>
+		</tr><tr>
+			<td>12/22/2020 1:02:39 PM</td><td>BBPSPAYU202012226786136831761611898</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9050007240</td><td>0.50</td><td>0.00</td><td>125254.78</td>
+		</tr><tr>
+			<td>12/22/2020 12:18:08 PM</td><td>BBPSPAYU202012224995708369364567325</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8053219940</td><td>0.00</td><td>0.02</td><td>125254.28</td>
+		</tr><tr>
+			<td>12/22/2020 12:18:08 PM</td><td>BBPSPAYU202012224995708369364567325</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8053219940</td><td>0.50</td><td>0.00</td><td>125254.30</td>
+		</tr><tr>
+			<td>12/22/2020 12:10:42 PM</td><td>BBPSPAYU202012224817197058598571148</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9812807147</td><td>0.00</td><td>0.02</td><td>125253.80</td>
+		</tr><tr>
+			<td>12/22/2020 12:10:42 PM</td><td>BBPSPAYU202012224817197058598571148</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9812807147</td><td>0.50</td><td>0.00</td><td>125253.82</td>
+		</tr><tr>
+			<td>12/22/2020 12:06:56 PM</td><td>BBPSPAYU202012227377588799095620398</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8816074616</td><td>0.00</td><td>0.02</td><td>125253.32</td>
+		</tr><tr>
+			<td>12/22/2020 12:06:56 PM</td><td>BBPSPAYU202012227377588799095620398</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8816074616</td><td>0.50</td><td>0.00</td><td>125253.34</td>
+		</tr><tr>
+			<td>12/22/2020 11:48:35 AM</td><td>BBPSPAYU202012226189452827690406991</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_7357359095</td><td>0.00</td><td>0.02</td><td>125252.84</td>
+		</tr><tr>
+			<td>12/22/2020 11:48:35 AM</td><td>BBPSPAYU202012226189452827690406991</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_7357359095</td><td>0.50</td><td>0.00</td><td>125252.86</td>
+		</tr><tr>
+			<td>12/22/2020 11:41:50 AM</td><td>BBPSPAYU202012228848191661405124044</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9991800619</td><td>0.00</td><td>0.02</td><td>125252.36</td>
+		</tr><tr>
+			<td>12/22/2020 11:41:50 AM</td><td>BBPSPAYU202012228848191661405124044</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9991800619</td><td>0.50</td><td>0.00</td><td>125252.38</td>
+		</tr><tr>
+			<td>12/22/2020 11:20:07 AM</td><td>BBPSPAYU202012229037657927683372901</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9518152280</td><td>0.00</td><td>0.02</td><td>125251.88</td>
+		</tr><tr>
+			<td>12/22/2020 11:20:07 AM</td><td>BBPSPAYU202012229037657927683372901</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9518152280</td><td>0.50</td><td>0.00</td><td>125251.90</td>
+		</tr><tr>
+			<td>12/22/2020 11:10:44 AM</td><td>T202012224977</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>30000.00</td><td>125251.40</td>
+		</tr><tr>
+			<td>12/22/2020 11:10:44 AM</td><td>T202012224977</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>155251.40</td>
+		</tr><tr>
+			<td>12/22/2020 10:59:06 AM</td><td>BBPSPAYU202012225933817449670896703</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9813940284</td><td>0.00</td><td>0.02</td><td>155251.40</td>
+		</tr><tr>
+			<td>12/22/2020 10:59:06 AM</td><td>BBPSPAYU202012225933817449670896703</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9813940284</td><td>0.50</td><td>0.00</td><td>155251.42</td>
+		</tr><tr>
+			<td>12/22/2020 10:33:36 AM</td><td>T202012223729</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>30000.00</td><td>155250.92</td>
+		</tr><tr>
+			<td>12/22/2020 10:33:36 AM</td><td>T202012223729</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>185250.92</td>
+		</tr><tr>
+			<td>12/22/2020 9:57:16 AM</td><td>BBPSPAYU202012225848710889303023168</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9991514541</td><td>0.00</td><td>0.02</td><td>185250.92</td>
+		</tr><tr>
+			<td>12/22/2020 9:57:16 AM</td><td>BBPSPAYU202012225848710889303023168</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9991514541</td><td>0.50</td><td>0.00</td><td>185250.94</td>
+		</tr><tr>
+			<td>12/22/2020 5:00:19 AM</td><td>2287814412827</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>1.36</td><td>0.00</td><td>185250.44</td>
+		</tr><tr>
+			<td>12/22/2020 4:15:40 AM</td><td>J20201222104832</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.05</td><td>185249.08</td>
+		</tr><tr>
+			<td>12/22/2020 1:18:32 AM</td><td>22464725121887</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>16.80</td><td>0.00</td><td>185249.13</td>
+		</tr><tr>
+			<td>12/22/2020 12:05:20 AM</td><td>DC202012223600</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>8.36</td><td>185232.33</td>
+		</tr><tr>
+			<td>12/22/2020 12:05:20 AM</td><td>DC202012223600</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>223.04</td><td>0.00</td><td>185240.69</td>
+		</tr><tr>
+			<td>12/21/2020 8:32:15 PM</td><td>T2020122124943</td><td>Retailer Topup.[8307010003][Irfan Shop]</td><td>0.00</td><td>5000.00</td><td>185017.65</td>
+		</tr><tr>
+			<td>12/21/2020 8:32:15 PM</td><td>T2020122124943</td><td>Service Charge for Topup.[8307010003][Irfan Shop]</td><td>0.00</td><td>0.00</td><td>190017.65</td>
+		</tr><tr>
+			<td>12/21/2020 7:20:26 PM</td><td>BBPSPAYU202012216995529811852345648</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9996199035</td><td>0.00</td><td>0.02</td><td>190017.65</td>
+		</tr><tr>
+			<td>12/21/2020 7:20:26 PM</td><td>BBPSPAYU202012216995529811852345648</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9996199035</td><td>0.50</td><td>0.00</td><td>190017.67</td>
+		</tr><tr>
+			<td>12/21/2020 4:39:28 PM</td><td>BBPSPAYU202012215439410814992713264</td><td>Credit_Distributor_Bill_Payment_Electricity_TDS_Reversal_9991550100</td><td>0.02</td><td>0.00</td><td>190017.19</td>
+		</tr><tr>
+			<td>12/21/2020 4:39:28 PM</td><td>BBPSPAYU202012215439410814992713264</td><td>Debit_Distributor_Bill_Payment_Electricity_Commission_Reversal_9991550100</td><td>0.00</td><td>0.50</td><td>190017.17</td>
+		</tr><tr>
+			<td>12/21/2020 3:09:07 PM</td><td>T2020122113533</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>190017.67</td>
+		</tr><tr>
+			<td>12/21/2020 3:09:07 PM</td><td>T2020122113533</td><td>423deb7e5a4643f7bfb34aa32dda8Topup received </td><td>120000.00</td><td>0.00</td><td>190017.67</td>
+		</tr><tr>
+			<td>12/21/2020 3:00:51 PM</td><td>BBPSPAYU202012215439410814992713264</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9991550100</td><td>0.00</td><td>0.02</td><td>70017.67</td>
+		</tr><tr>
+			<td>12/21/2020 3:00:51 PM</td><td>BBPSPAYU202012215439410814992713264</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9991550100</td><td>0.50</td><td>0.00</td><td>70017.69</td>
+		</tr><tr>
+			<td>12/21/2020 1:58:29 PM</td><td>BBPSPAYU202012216442727517939453663</td><td>Credit_Distributor_Bill_Payment_Electricity_TDS_Reversal_7015176384</td><td>0.02</td><td>0.00</td><td>70017.21</td>
+		</tr><tr>
+			<td>12/21/2020 1:58:29 PM</td><td>BBPSPAYU202012216442727517939453663</td><td>Debit_Distributor_Bill_Payment_Electricity_Commission_Reversal_7015176384</td><td>0.00</td><td>0.50</td><td>70017.19</td>
+		</tr><tr>
+			<td>12/21/2020 1:58:29 PM</td><td>BBPSPAYU202012218258673618722379855</td><td>Credit_Distributor_Bill_Payment_Electricity_TDS_Reversal_7027891969</td><td>0.02</td><td>0.00</td><td>70017.71</td>
+		</tr><tr>
+			<td>12/21/2020 1:58:29 PM</td><td>BBPSPAYU202012218258673618722379855</td><td>Debit_Distributor_Bill_Payment_Electricity_Commission_Reversal_7027891969</td><td>0.00</td><td>0.50</td><td>70017.69</td>
+		</tr><tr>
+			<td>12/21/2020 1:46:03 PM</td><td>T2020122111224</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>30000.00</td><td>70018.19</td>
+		</tr><tr>
+			<td>12/21/2020 1:46:03 PM</td><td>T2020122111224</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>100018.19</td>
+		</tr><tr>
+			<td>12/21/2020 12:16:45 PM</td><td>BBPSPAYU202012216442727517939453663</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_7015176384</td><td>0.00</td><td>0.02</td><td>100018.19</td>
+		</tr><tr>
+			<td>12/21/2020 12:16:45 PM</td><td>BBPSPAYU202012216442727517939453663</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_7015176384</td><td>0.50</td><td>0.00</td><td>100018.21</td>
+		</tr><tr>
+			<td>12/21/2020 12:16:21 PM</td><td>BBPSPAYU202012218258673618722379855</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_7027891969</td><td>0.00</td><td>0.02</td><td>100017.71</td>
+		</tr><tr>
+			<td>12/21/2020 12:16:21 PM</td><td>BBPSPAYU202012218258673618722379855</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_7027891969</td><td>0.50</td><td>0.00</td><td>100017.73</td>
+		</tr><tr>
+			<td>12/21/2020 11:58:20 AM</td><td>BBPSPAYU202012217014345599953943123</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9671870590</td><td>0.00</td><td>0.02</td><td>100017.23</td>
+		</tr><tr>
+			<td>12/21/2020 11:58:20 AM</td><td>BBPSPAYU202012217014345599953943123</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9671870590</td><td>0.50</td><td>0.00</td><td>100017.25</td>
+		</tr><tr>
+			<td>12/21/2020 11:36:33 AM</td><td>BBPSPAYU202012215874308093278918851</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9991871737</td><td>0.00</td><td>0.02</td><td>100016.75</td>
+		</tr><tr>
+			<td>12/21/2020 11:36:33 AM</td><td>BBPSPAYU202012215874308093278918851</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9991871737</td><td>0.50</td><td>0.00</td><td>100016.77</td>
+		</tr><tr>
+			<td>12/21/2020 11:32:06 AM</td><td>BBPSPAYU202012216387270914195250583</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8930627486</td><td>0.00</td><td>0.02</td><td>100016.27</td>
+		</tr><tr>
+			<td>12/21/2020 11:32:06 AM</td><td>BBPSPAYU202012216387270914195250583</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8930627486</td><td>0.50</td><td>0.00</td><td>100016.29</td>
+		</tr><tr>
+			<td>12/21/2020 11:32:02 AM</td><td>BBPSPAYU202012217863818123992102398</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9050804821</td><td>0.00</td><td>0.02</td><td>100015.79</td>
+		</tr><tr>
+			<td>12/21/2020 11:32:02 AM</td><td>BBPSPAYU202012217863818123992102398</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9050804821</td><td>0.50</td><td>0.00</td><td>100015.81</td>
+		</tr><tr>
+			<td>12/21/2020 11:25:51 AM</td><td>BBPSPAYU202012218233439522857440262</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9050804821</td><td>0.00</td><td>0.02</td><td>100015.31</td>
+		</tr><tr>
+			<td>12/21/2020 11:25:51 AM</td><td>BBPSPAYU202012218233439522857440262</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9050804821</td><td>0.50</td><td>0.00</td><td>100015.33</td>
+		</tr><tr>
+			<td>12/21/2020 11:22:37 AM</td><td>T202012215700</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>50000.00</td><td>100014.83</td>
+		</tr><tr>
+			<td>12/21/2020 11:22:37 AM</td><td>T202012215700</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>150014.83</td>
+		</tr><tr>
+			<td>12/21/2020 11:22:04 AM</td><td>T202012215670</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>150014.83</td>
+		</tr><tr>
+			<td>12/21/2020 11:22:04 AM</td><td>T202012215670</td><td>Mobile:8199999772  Bank Reference No:698412747457.2  Topup Date and Time:12/21/2020 11:22:04 AM Topup received </td><td>150000.00</td><td>0.00</td><td>150014.83</td>
+		</tr><tr>
+			<td>12/21/2020 8:17:15 AM</td><td>T20201221665</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>26000.00</td><td>14.83</td>
+		</tr><tr>
+			<td>12/21/2020 8:17:15 AM</td><td>T20201221665</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>26014.83</td>
+		</tr><tr>
+			<td>12/21/2020 7:39:12 AM</td><td>BBPSPAYU202012218189552671540090333</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9050712345</td><td>0.00</td><td>0.02</td><td>26014.83</td>
+		</tr><tr>
+			<td>12/21/2020 7:39:12 AM</td><td>BBPSPAYU202012218189552671540090333</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9050712345</td><td>0.50</td><td>0.00</td><td>26014.85</td>
+		</tr><tr>
+			<td>12/21/2020 7:26:20 AM</td><td>BBPSPAYU202012218747704342051756336</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8053055904</td><td>0.00</td><td>0.02</td><td>26014.35</td>
+		</tr><tr>
+			<td>12/21/2020 7:26:20 AM</td><td>BBPSPAYU202012218747704342051756336</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8053055904</td><td>0.50</td><td>0.00</td><td>26014.37</td>
+		</tr><tr>
+			<td>12/21/2020 5:00:18 AM</td><td>2169981812838</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>2.44</td><td>0.00</td><td>26013.87</td>
+		</tr><tr>
+			<td>12/21/2020 4:15:38 AM</td><td>J20201221104571</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.10</td><td>26011.43</td>
+		</tr><tr>
+			<td>12/21/2020 1:18:31 AM</td><td>21739399121848</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>13.20</td><td>0.00</td><td>26011.53</td>
+		</tr><tr>
+			<td>12/21/2020 12:05:09 AM</td><td>DC202012211730</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>7.18</td><td>25998.33</td>
+		</tr><tr>
+			<td>12/21/2020 12:05:09 AM</td><td>DC202012211730</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>191.41</td><td>0.00</td><td>26005.51</td>
+		</tr><tr>
+			<td>12/20/2020 7:08:32 PM</td><td>BBPSPAYU202012206808038767057697090</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9306618101</td><td>0.00</td><td>0.02</td><td>25814.10</td>
+		</tr><tr>
+			<td>12/20/2020 7:08:32 PM</td><td>BBPSPAYU202012206808038767057697090</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9306618101</td><td>0.50</td><td>0.00</td><td>25814.12</td>
+		</tr><tr>
+			<td>12/20/2020 6:11:15 PM</td><td>T2020122013473</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>30000.00</td><td>25813.62</td>
+		</tr><tr>
+			<td>12/20/2020 6:11:15 PM</td><td>T2020122013473</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>55813.62</td>
+		</tr><tr>
+			<td>12/20/2020 4:26:46 PM</td><td>BBPSPAYU202012204977691088739948257</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8930003284</td><td>0.00</td><td>0.02</td><td>55813.62</td>
+		</tr><tr>
+			<td>12/20/2020 4:26:46 PM</td><td>BBPSPAYU202012204977691088739948257</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8930003284</td><td>0.50</td><td>0.00</td><td>55813.64</td>
+		</tr><tr>
+			<td>12/20/2020 10:36:06 AM</td><td>T202012203001</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>30000.00</td><td>55813.14</td>
+		</tr><tr>
+			<td>12/20/2020 10:36:06 AM</td><td>T202012203001</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>85813.14</td>
+		</tr><tr>
+			<td>12/20/2020 9:05:18 AM</td><td>T202012201292</td><td>Retailer Topup.[8307010003][Irfan Shop]</td><td>0.00</td><td>10000.00</td><td>85813.14</td>
+		</tr><tr>
+			<td>12/20/2020 9:05:18 AM</td><td>T202012201292</td><td>Service Charge for Topup.[8307010003][Irfan Shop]</td><td>0.00</td><td>0.00</td><td>95813.14</td>
+		</tr><tr>
+			<td>12/20/2020 5:00:19 AM</td><td>2887773112833</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>3.75</td><td>0.00</td><td>95813.14</td>
+		</tr><tr>
+			<td>12/20/2020 4:15:38 AM</td><td>J20201220104805</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.14</td><td>95809.39</td>
+		</tr><tr>
+			<td>12/20/2020 1:18:34 AM</td><td>28111782121823</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>17.28</td><td>0.00</td><td>95809.53</td>
+		</tr><tr>
+			<td>12/20/2020 12:05:18 AM</td><td>DC202012202728</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>15.92</td><td>95792.25</td>
+		</tr><tr>
+			<td>12/20/2020 12:05:18 AM</td><td>DC202012202728</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>424.45</td><td>0.00</td><td>95808.17</td>
+		</tr><tr>
+			<td>12/19/2020 5:58:41 PM</td><td>T2020121915814</td><td>Retailer Topup.[8307010003][Irfan Shop]</td><td>0.00</td><td>5000.00</td><td>95383.72</td>
+		</tr><tr>
+			<td>12/19/2020 5:58:41 PM</td><td>T2020121915814</td><td>Service Charge for Topup.[8307010003][Irfan Shop]</td><td>0.00</td><td>0.00</td><td>100383.72</td>
+		</tr><tr>
+			<td>12/19/2020 5:18:20 PM</td><td>T2020121914694</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>50000.00</td><td>100383.72</td>
+		</tr><tr>
+			<td>12/19/2020 5:18:20 PM</td><td>T2020121914694</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>150383.72</td>
+		</tr><tr>
+			<td>12/19/2020 5:17:06 PM</td><td>T2020121914669</td><td>Retailer Topup.[9671054786][Yusuf Comm]</td><td>0.00</td><td>30000.00</td><td>150383.72</td>
+		</tr><tr>
+			<td>12/19/2020 5:17:06 PM</td><td>T2020121914669</td><td>Service Charge for Topup.[9671054786][Yusuf Comm]</td><td>0.00</td><td>0.00</td><td>180383.72</td>
+		</tr><tr>
+			<td>12/19/2020 1:03:45 PM</td><td>T202012197781</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>180383.72</td>
+		</tr><tr>
+			<td>12/19/2020 1:03:45 PM</td><td>T202012197781</td><td>6f7e7377194cf7052a0482c6dbfa2Topup received </td><td>120000.00</td><td>0.00</td><td>180383.72</td>
+		</tr><tr>
+			<td>12/19/2020 12:57:45 PM</td><td>T202012197818</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>28000.00</td><td>60383.72</td>
+		</tr><tr>
+			<td>12/19/2020 12:57:45 PM</td><td>T202012197818</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>88383.72</td>
+		</tr><tr>
+			<td>12/19/2020 9:28:31 AM</td><td>T202012191808</td><td>Retailer Topup.[8307010003][Irfan Shop]</td><td>0.00</td><td>10000.00</td><td>88383.72</td>
+		</tr><tr>
+			<td>12/19/2020 9:28:31 AM</td><td>T202012191808</td><td>Service Charge for Topup.[8307010003][Irfan Shop]</td><td>0.00</td><td>0.00</td><td>98383.72</td>
+		</tr><tr>
+			<td>12/19/2020 5:00:21 AM</td><td>1912112812833</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>1.70</td><td>0.00</td><td>98383.72</td>
+		</tr><tr>
+			<td>12/19/2020 4:15:53 AM</td><td>J20201219104894</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.07</td><td>98382.02</td>
+		</tr><tr>
+			<td>12/19/2020 2:00:03 AM</td><td>DD20201219422</td><td>Credit_Distributor_DMT_Remittance_TDS_Yesterday_Reversal</td><td>0.18</td><td>0.00</td><td>98382.09</td>
+		</tr><tr>
+			<td>12/19/2020 2:00:03 AM</td><td>DD20201219422</td><td>Debit_Distributor_DMT_Remittance_Commission_Yesterday_Reversal</td><td>0.00</td><td>4.75</td><td>98381.91</td>
+		</tr><tr>
+			<td>12/19/2020 1:18:34 AM</td><td>19988173121887</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>22.32</td><td>0.00</td><td>98386.66</td>
+		</tr><tr>
+			<td>12/19/2020 1:18:03 AM</td><td>19348821121858</td><td>Credit_Distributor_MicroATM_Commission_Yesterday</td><td>0.96</td><td>0.00</td><td>98364.34</td>
+		</tr><tr>
+			<td>12/19/2020 12:05:33 AM</td><td>DC202012196412</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>5.14</td><td>98363.38</td>
+		</tr><tr>
+			<td>12/19/2020 12:05:33 AM</td><td>DC202012196412</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>136.96</td><td>0.00</td><td>98368.52</td>
+		</tr><tr>
+			<td>12/19/2020 12:05:19 AM</td><td>DC202012193542</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>12.14</td><td>98231.56</td>
+		</tr><tr>
+			<td>12/19/2020 12:05:19 AM</td><td>DC202012193542</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>323.67</td><td>0.00</td><td>98243.70</td>
+		</tr><tr>
+			<td>12/18/2020 8:31:01 PM</td><td>T2020121822076</td><td>Retailer Topup.[9050055019][R P Telecom]</td><td>0.00</td><td>50000.00</td><td>97920.03</td>
+		</tr><tr>
+			<td>12/18/2020 8:31:01 PM</td><td>T2020121822076</td><td>Service Charge for Topup.[9050055019][R P Telecom]</td><td>0.00</td><td>0.00</td><td>147920.03</td>
+		</tr><tr>
+			<td>12/18/2020 8:29:35 PM</td><td>T2020121822028</td><td>Retailer Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>70000.00</td><td>147920.03</td>
+		</tr><tr>
+			<td>12/18/2020 8:29:35 PM</td><td>T2020121822028</td><td>Service Charge for Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>0.00</td><td>217920.03</td>
+		</tr><tr>
+			<td>12/18/2020 8:28:05 PM</td><td>T2020121821972</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>50000.00</td><td>217920.03</td>
+		</tr><tr>
+			<td>12/18/2020 8:28:05 PM</td><td>T2020121821972</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>267920.03</td>
+		</tr><tr>
+			<td>12/18/2020 8:26:43 PM</td><td>T2020121821935</td><td>Service Charge for Topup</td><td>0.00</td><td>15.60</td><td>267920.03</td>
+		</tr><tr>
+			<td>12/18/2020 8:26:43 PM</td><td>T2020121821935</td><td>S34944829Topup received </td><td>78000.00</td><td>0.00</td><td>267935.63</td>
+		</tr><tr>
+			<td>12/18/2020 8:26:43 PM</td><td>T2020121821934</td><td>Service Charge for Topup</td><td>0.00</td><td>5.80</td><td>189935.63</td>
+		</tr><tr>
+			<td>12/18/2020 8:26:43 PM</td><td>T2020121821934</td><td>S34893301Topup received </td><td>29000.00</td><td>0.00</td><td>189941.43</td>
+		</tr><tr>
+			<td>12/18/2020 8:26:43 PM</td><td>T2020121821933</td><td>Service Charge for Topup</td><td>0.00</td><td>12.70</td><td>160941.43</td>
+		</tr><tr>
+			<td>12/18/2020 8:26:43 PM</td><td>T2020121821933</td><td>S34837924Topup received </td><td>63500.00</td><td>0.00</td><td>160954.13</td>
+		</tr><tr>
+			<td>12/18/2020 8:26:43 PM</td><td>T2020121821932</td><td>Service Charge for Topup</td><td>0.00</td><td>10.10</td><td>97454.13</td>
+		</tr><tr>
+			<td>12/18/2020 8:26:43 PM</td><td>T2020121821932</td><td>S34700322Topup received </td><td>50500.00</td><td>0.00</td><td>97464.23</td>
+		</tr><tr>
+			<td>12/18/2020 8:26:43 PM</td><td>T2020121821931</td><td>Service Charge for Topup</td><td>0.00</td><td>9.10</td><td>46964.23</td>
+		</tr><tr>
+			<td>12/18/2020 8:26:43 PM</td><td>T2020121821931</td><td>S34552182Topup received </td><td>45500.00</td><td>0.00</td><td>46973.33</td>
+		</tr><tr>
+			<td>12/18/2020 6:46:34 PM</td><td>T2020121818813</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>30000.00</td><td>1473.33</td>
+		</tr><tr>
+			<td>12/18/2020 6:46:34 PM</td><td>T2020121818813</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>31473.33</td>
+		</tr><tr>
+			<td>12/18/2020 1:12:37 PM</td><td>T202012189211</td><td>Retailer Topup.[9050055019][R P Telecom]</td><td>0.00</td><td>50000.00</td><td>31473.33</td>
+		</tr><tr>
+			<td>12/18/2020 1:12:37 PM</td><td>T202012189211</td><td>Service Charge for Topup.[9050055019][R P Telecom]</td><td>0.00</td><td>0.00</td><td>81473.33</td>
+		</tr><tr>
+			<td>12/18/2020 12:33:55 PM</td><td>T202012188097</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>81473.33</td>
+		</tr><tr>
+			<td>12/18/2020 12:33:55 PM</td><td>T202012188097</td><td>Mobile:8199999772  Bank Reference No:698412588160.8  Topup Date and Time:12/18/2020 12:33:55 PM Topup received </td><td>70000.00</td><td>0.00</td><td>81473.33</td>
+		</tr><tr>
+			<td>12/18/2020 10:55:19 AM</td><td>T202012184781</td><td>Retailer Topup.[9671054786][Yusuf Comm]</td><td>0.00</td><td>40000.00</td><td>11473.33</td>
+		</tr><tr>
+			<td>12/18/2020 10:55:19 AM</td><td>T202012184781</td><td>Service Charge for Topup.[9671054786][Yusuf Comm]</td><td>0.00</td><td>0.00</td><td>51473.33</td>
+		</tr><tr>
+			<td>12/18/2020 10:54:54 AM</td><td>T202012184774</td><td>Retailer Topup.[9671054786][Yusuf Comm]</td><td>0.00</td><td>10000.00</td><td>51473.33</td>
+		</tr><tr>
+			<td>12/18/2020 10:54:54 AM</td><td>T202012184774</td><td>Service Charge for Topup.[9671054786][Yusuf Comm]</td><td>0.00</td><td>0.00</td><td>61473.33</td>
+		</tr><tr>
+			<td>12/18/2020 9:57:43 AM</td><td>T202012182981</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>40000.00</td><td>61473.33</td>
+		</tr><tr>
+			<td>12/18/2020 9:57:43 AM</td><td>T202012182981</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>101473.33</td>
+		</tr><tr>
+			<td>12/18/2020 5:00:21 AM</td><td>1832188812877</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>0.60</td><td>0.00</td><td>101473.33</td>
+		</tr><tr>
+			<td>12/18/2020 4:15:40 AM</td><td>J20201218104855</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.02</td><td>101472.73</td>
+		</tr><tr>
+			<td>12/18/2020 1:18:26 AM</td><td>18329456121838</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>22.56</td><td>0.00</td><td>101472.75</td>
+		</tr><tr>
+			<td>12/18/2020 1:18:03 AM</td><td>18588889121898</td><td>Credit_Distributor_MicroATM_Commission_Yesterday</td><td>3.12</td><td>0.00</td><td>101450.19</td>
+		</tr><tr>
+			<td>12/18/2020 12:05:48 AM</td><td>DC202012189221</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>3.20</td><td>101447.07</td>
+		</tr><tr>
+			<td>12/18/2020 12:05:48 AM</td><td>DC202012189221</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>85.20</td><td>0.00</td><td>101450.27</td>
+		</tr><tr>
+			<td>12/18/2020 12:05:24 AM</td><td>DC202012184429</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>18.45</td><td>101365.07</td>
+		</tr><tr>
+			<td>12/18/2020 12:05:24 AM</td><td>DC202012184429</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>492.07</td><td>0.00</td><td>101383.52</td>
+		</tr><tr>
+			<td>12/17/2020 6:18:11 PM</td><td>T2020121718466</td><td>Retailer Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>40000.00</td><td>100891.45</td>
+		</tr><tr>
+			<td>12/17/2020 6:18:11 PM</td><td>T2020121718466</td><td>Service Charge for Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>0.00</td><td>140891.45</td>
+		</tr><tr>
+			<td>12/17/2020 6:07:02 PM</td><td>T2020121718059</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>60000.00</td><td>140891.45</td>
+		</tr><tr>
+			<td>12/17/2020 6:07:02 PM</td><td>T2020121718059</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>200891.45</td>
+		</tr><tr>
+			<td>12/17/2020 3:31:16 PM</td><td>T2020121713607</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>475.00</td><td>200891.45</td>
+		</tr><tr>
+			<td>12/17/2020 3:31:16 PM</td><td>T2020121713607</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>201366.45</td>
+		</tr><tr>
+			<td>12/17/2020 3:30:33 PM</td><td>SBMR17338756123838</td><td>Debit_Dist_TDS_CustomerOnboarding8685048773</td><td>0.00</td><td>0.26</td><td>201366.45</td>
+		</tr><tr>
+			<td>12/17/2020 3:30:33 PM</td><td>SBMR17338756123838</td><td>Credit_Dist_Commission_CustomerOnboarding8685048773</td><td>7.00</td><td>0.00</td><td>201366.71</td>
+		</tr><tr>
+			<td>12/17/2020 2:24:13 PM</td><td>BBPSPAYU202012176470504016653579633</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9416800014</td><td>0.00</td><td>0.02</td><td>201359.71</td>
+		</tr><tr>
+			<td>12/17/2020 2:24:13 PM</td><td>BBPSPAYU202012176470504016653579633</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9416800014</td><td>0.50</td><td>0.00</td><td>201359.73</td>
+		</tr><tr>
+			<td>12/17/2020 2:22:50 PM</td><td>BBPSPAYU202012175213328671909077189</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9068410001</td><td>0.00</td><td>0.02</td><td>201359.23</td>
+		</tr><tr>
+			<td>12/17/2020 2:22:50 PM</td><td>BBPSPAYU202012175213328671909077189</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9068410001</td><td>0.50</td><td>0.00</td><td>201359.25</td>
+		</tr><tr>
+			<td>12/17/2020 2:21:15 PM</td><td>BBPSPAYU202012174764259015507774506</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9068410001</td><td>0.00</td><td>0.02</td><td>201358.75</td>
+		</tr><tr>
+			<td>12/17/2020 2:21:15 PM</td><td>BBPSPAYU202012174764259015507774506</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9068410001</td><td>0.50</td><td>0.00</td><td>201358.77</td>
+		</tr><tr>
+			<td>12/17/2020 2:18:22 PM</td><td>BBPSPAYU202012177380266119009221385</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9068410001</td><td>0.00</td><td>0.02</td><td>201358.27</td>
+		</tr><tr>
+			<td>12/17/2020 2:18:22 PM</td><td>BBPSPAYU202012177380266119009221385</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9068410001</td><td>0.50</td><td>0.00</td><td>201358.29</td>
+		</tr><tr>
+			<td>12/17/2020 2:16:30 PM</td><td>BBPSPAYU202012176358848537054865446</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9068410001</td><td>0.00</td><td>0.02</td><td>201357.79</td>
+		</tr><tr>
+			<td>12/17/2020 2:16:30 PM</td><td>BBPSPAYU202012176358848537054865446</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9068410001</td><td>0.50</td><td>0.00</td><td>201357.81</td>
+		</tr><tr>
+			<td>12/17/2020 2:14:07 PM</td><td>T2020121710677</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>201357.31</td>
+		</tr><tr>
+			<td>12/17/2020 2:14:07 PM</td><td>T2020121710677</td><td>2479eec2efa55a1ce4ce0e920078eTopup received </td><td>170000.00</td><td>0.00</td><td>201357.31</td>
+		</tr><tr>
+			<td>12/17/2020 1:41:10 PM</td><td>T2020121710533</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>59000.00</td><td>31357.31</td>
+		</tr><tr>
+			<td>12/17/2020 1:41:10 PM</td><td>T2020121710533</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>90357.31</td>
+		</tr><tr>
+			<td>12/17/2020 1:35:51 PM</td><td>T2020121710332</td><td>Retailer Topup.[9671054786][Yusuf Comm]</td><td>0.00</td><td>22000.00</td><td>90357.31</td>
+		</tr><tr>
+			<td>12/17/2020 1:35:51 PM</td><td>T2020121710332</td><td>Service Charge for Topup.[9671054786][Yusuf Comm]</td><td>0.00</td><td>0.00</td><td>112357.31</td>
+		</tr><tr>
+			<td>12/17/2020 1:35:18 PM</td><td>T2020121710313</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>112357.31</td>
+		</tr><tr>
+			<td>12/17/2020 1:35:18 PM</td><td>T2020121710313</td><td>Mobile:8199999772  Bank Reference No:698442091284.4  Topup Date and Time:12/17/2020 1:35:18 PM Topup received </td><td>112000.00</td><td>0.00</td><td>112357.31</td>
+		</tr><tr>
+			<td>12/17/2020 11:42:26 AM</td><td>T202012176508</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>1000.00</td><td>357.31</td>
+		</tr><tr>
+			<td>12/17/2020 11:42:26 AM</td><td>T202012176508</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>1357.31</td>
+		</tr><tr>
+			<td>12/17/2020 10:01:37 AM</td><td>T202012172963</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>30000.00</td><td>1357.31</td>
+		</tr><tr>
+			<td>12/17/2020 10:01:37 AM</td><td>T202012172963</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>31357.31</td>
+		</tr><tr>
+			<td>12/17/2020 5:00:18 AM</td><td>1788467912898</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>0.50</td><td>0.00</td><td>31357.31</td>
+		</tr><tr>
+			<td>12/17/2020 4:15:36 AM</td><td>J20201217104294</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.02</td><td>31356.81</td>
+		</tr><tr>
+			<td>12/17/2020 2:00:03 AM</td><td>DD20201217422</td><td>Credit_Distributor_DMT_Remittance_TDS_Yesterday_Reversal</td><td>0.18</td><td>0.00</td><td>31356.83</td>
+		</tr><tr>
+			<td>12/17/2020 2:00:03 AM</td><td>DD20201217422</td><td>Debit_Distributor_DMT_Remittance_Commission_Yesterday_Reversal</td><td>0.00</td><td>4.75</td><td>31356.65</td>
+		</tr><tr>
+			<td>12/17/2020 1:18:12 AM</td><td>17888859121848</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>14.64</td><td>0.00</td><td>31361.40</td>
+		</tr><tr>
+			<td>12/17/2020 1:18:03 AM</td><td>17828135121817</td><td>Credit_Distributor_MicroATM_Commission_Yesterday</td><td>2.16</td><td>0.00</td><td>31346.76</td>
+		</tr><tr>
+			<td>12/17/2020 12:05:38 AM</td><td>DC202012176702</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>6.04</td><td>31344.60</td>
+		</tr><tr>
+			<td>12/17/2020 12:05:38 AM</td><td>DC202012176702</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>161.14</td><td>0.00</td><td>31350.64</td>
+		</tr><tr>
+			<td>12/17/2020 12:05:03 AM</td><td>DC20201217381</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>12.29</td><td>31189.50</td>
+		</tr><tr>
+			<td>12/17/2020 12:05:03 AM</td><td>DC20201217381</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>327.71</td><td>0.00</td><td>31201.79</td>
+		</tr><tr>
+			<td>12/16/2020 7:36:39 PM</td><td>T2020121620283</td><td>Retailer Topup.[9253636001][Anuj Enterprises]</td><td>0.00</td><td>10000.00</td><td>30874.08</td>
+		</tr><tr>
+			<td>12/16/2020 7:36:39 PM</td><td>T2020121620283</td><td>Service Charge for Topup.[9253636001][Anuj Enterprises]</td><td>0.00</td><td>0.00</td><td>40874.08</td>
+		</tr><tr>
+			<td>12/16/2020 6:40:05 PM</td><td>T2020121618292</td><td>Retailer Topup.[9253636001][Anuj Enterprises]</td><td>0.00</td><td>6000.00</td><td>40874.08</td>
+		</tr><tr>
+			<td>12/16/2020 6:40:05 PM</td><td>T2020121618292</td><td>Service Charge for Topup.[9253636001][Anuj Enterprises]</td><td>0.00</td><td>0.00</td><td>46874.08</td>
+		</tr><tr>
+			<td>12/16/2020 6:35:46 PM</td><td>T2020121618115</td><td>Retailer Topup.[9671054786][Yusuf Comm]</td><td>0.00</td><td>70000.00</td><td>46874.08</td>
+		</tr><tr>
+			<td>12/16/2020 6:35:46 PM</td><td>T2020121618115</td><td>Service Charge for Topup.[9671054786][Yusuf Comm]</td><td>0.00</td><td>0.00</td><td>116874.08</td>
+		</tr><tr>
+			<td>12/16/2020 6:30:15 PM</td><td>T2020121617918</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>30000.00</td><td>116874.08</td>
+		</tr><tr>
+			<td>12/16/2020 6:30:15 PM</td><td>T2020121617918</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>146874.08</td>
+		</tr><tr>
+			<td>12/16/2020 5:42:27 PM</td><td>T2020121616264</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>146874.08</td>
+		</tr><tr>
+			<td>12/16/2020 5:42:27 PM</td><td>T2020121616264</td><td>Mobile:8199999772  Bank Reference No:698433906984.4  Topup Date and Time:12/16/2020 5:42:27 PM Topup received </td><td>130000.00</td><td>0.00</td><td>146874.08</td>
+		</tr><tr>
+			<td>12/16/2020 1:36:23 PM</td><td>T202012168601</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>34000.00</td><td>16874.08</td>
+		</tr><tr>
+			<td>12/16/2020 1:36:23 PM</td><td>T202012168601</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>50874.08</td>
+		</tr><tr>
+			<td>12/16/2020 1:31:50 PM</td><td>T202012168056</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>50874.08</td>
+		</tr><tr>
+			<td>12/16/2020 1:31:50 PM</td><td>T202012168056</td><td>aaf5dc172161ccdb9818b3dda6631Topup received </td><td>50000.00</td><td>0.00</td><td>50874.08</td>
+		</tr><tr>
+			<td>12/16/2020 12:45:58 PM</td><td>T202012166798</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>16000.00</td><td>874.08</td>
+		</tr><tr>
+			<td>12/16/2020 12:45:58 PM</td><td>T202012166798</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>16874.08</td>
+		</tr><tr>
+			<td>12/16/2020 11:52:53 AM</td><td>T202012164886</td><td>Retailer Topup.[9671054786][Yusuf Comm]</td><td>0.00</td><td>50000.00</td><td>16874.08</td>
+		</tr><tr>
+			<td>12/16/2020 11:52:53 AM</td><td>T202012164886</td><td>Service Charge for Topup.[9671054786][Yusuf Comm]</td><td>0.00</td><td>0.00</td><td>66874.08</td>
+		</tr><tr>
+			<td>12/16/2020 5:00:21 AM</td><td>1616583112838</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>0.70</td><td>0.00</td><td>66874.08</td>
+		</tr><tr>
+			<td>12/16/2020 4:15:41 AM</td><td>J20201216104975</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.03</td><td>66873.38</td>
+		</tr><tr>
+			<td>12/16/2020 1:18:40 AM</td><td>16693686121813</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>17.28</td><td>0.00</td><td>66873.41</td>
+		</tr><tr>
+			<td>12/16/2020 1:18:04 AM</td><td>16294155121818</td><td>Credit_Distributor_MicroATM_Commission_Yesterday</td><td>3.12</td><td>0.00</td><td>66856.13</td>
+		</tr><tr>
+			<td>12/16/2020 12:05:33 AM</td><td>DC202012165792</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>2.57</td><td>66853.01</td>
+		</tr><tr>
+			<td>12/16/2020 12:05:33 AM</td><td>DC202012165792</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>68.40</td><td>0.00</td><td>66855.58</td>
+		</tr><tr>
+			<td>12/16/2020 12:05:22 AM</td><td>DC202012163556</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>9.41</td><td>66787.18</td>
+		</tr><tr>
+			<td>12/16/2020 12:05:22 AM</td><td>DC202012163556</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>250.81</td><td>0.00</td><td>66796.59</td>
+		</tr><tr>
+			<td>12/15/2020 6:25:49 PM</td><td>T2020121521003</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>50000.00</td><td>66545.78</td>
+		</tr><tr>
+			<td>12/15/2020 6:25:49 PM</td><td>T2020121521003</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>116545.78</td>
+		</tr><tr>
+			<td>12/15/2020 4:19:31 PM</td><td>T2020121516374</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>116545.78</td>
+		</tr><tr>
+			<td>12/15/2020 4:19:31 PM</td><td>T2020121516374</td><td>f92743ea342276495c62a0c37a632Topup received </td><td>100000.00</td><td>0.00</td><td>116545.78</td>
+		</tr><tr>
+			<td>12/15/2020 4:09:07 PM</td><td>T2020121516432</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>50000.00</td><td>16545.78</td>
+		</tr><tr>
+			<td>12/15/2020 4:09:07 PM</td><td>T2020121516432</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>66545.78</td>
+		</tr><tr>
+			<td>12/15/2020 4:01:12 PM</td><td>T2020121516143</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>66545.78</td>
+		</tr><tr>
+			<td>12/15/2020 4:01:12 PM</td><td>T2020121516143</td><td>Mobile:8199999772  Bank Reference No:698454076718  Topup Date and Time:12/15/2020 4:01:12 PM Topup received </td><td>55000.00</td><td>0.00</td><td>66545.78</td>
+		</tr><tr>
+			<td>12/15/2020 7:04:27 AM</td><td>T20201215497</td><td>Retailer Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>40000.00</td><td>11545.78</td>
+		</tr><tr>
+			<td>12/15/2020 7:04:27 AM</td><td>T20201215497</td><td>Service Charge for Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>0.00</td><td>51545.78</td>
+		</tr><tr>
+			<td>12/15/2020 5:00:30 AM</td><td>1528185912878</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>0.80</td><td>0.00</td><td>51545.78</td>
+		</tr><tr>
+			<td>12/15/2020 4:16:01 AM</td><td>J20201215104982</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.03</td><td>51544.98</td>
+		</tr><tr>
+			<td>12/15/2020 1:18:25 AM</td><td>15422971121888</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>5.28</td><td>0.00</td><td>51545.01</td>
+		</tr><tr>
+			<td>12/15/2020 1:18:03 AM</td><td>15683267121888</td><td>Credit_Distributor_MicroATM_Commission_Yesterday</td><td>0.96</td><td>0.00</td><td>51539.73</td>
+		</tr><tr>
+			<td>12/15/2020 12:05:34 AM</td><td>DC202012156016</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>2.30</td><td>51538.77</td>
+		</tr><tr>
+			<td>12/15/2020 12:05:34 AM</td><td>DC202012156016</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>61.39</td><td>0.00</td><td>51541.07</td>
+		</tr><tr>
+			<td>12/15/2020 12:05:03 AM</td><td>DC20201215407</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>9.63</td><td>51479.68</td>
+		</tr><tr>
+			<td>12/15/2020 12:05:03 AM</td><td>DC20201215407</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>256.70</td><td>0.00</td><td>51489.31</td>
+		</tr><tr>
+			<td>12/14/2020 6:29:18 PM</td><td>T2020121422138</td><td>Retailer Topup.[8307010003][Irfan Shop]</td><td>0.00</td><td>5000.00</td><td>51232.61</td>
+		</tr><tr>
+			<td>12/14/2020 6:29:18 PM</td><td>T2020121422138</td><td>Service Charge for Topup.[8307010003][Irfan Shop]</td><td>0.00</td><td>0.00</td><td>56232.61</td>
+		</tr><tr>
+			<td>12/14/2020 6:28:26 PM</td><td>T2020121422070</td><td>Retailer Topup.[8307010003][Irfan Shop]</td><td>0.00</td><td>1000.00</td><td>56232.61</td>
+		</tr><tr>
+			<td>12/14/2020 6:28:26 PM</td><td>T2020121422070</td><td>Service Charge for Topup.[8307010003][Irfan Shop]</td><td>0.00</td><td>0.00</td><td>57232.61</td>
+		</tr><tr>
+			<td>12/14/2020 6:24:24 PM</td><td>T2020121421949</td><td>Retailer Topup.[8307010003][Irfan Shop]</td><td>0.00</td><td>7000.00</td><td>57232.61</td>
+		</tr><tr>
+			<td>12/14/2020 6:24:24 PM</td><td>T2020121421949</td><td>Service Charge for Topup.[8307010003][Irfan Shop]</td><td>0.00</td><td>0.00</td><td>64232.61</td>
+		</tr><tr>
+			<td>12/14/2020 3:36:40 PM</td><td>T2020121416178</td><td>Retailer Topup.[9671054786][Yusuf Comm]</td><td>0.00</td><td>36000.00</td><td>64232.61</td>
+		</tr><tr>
+			<td>12/14/2020 3:36:40 PM</td><td>T2020121416178</td><td>Service Charge for Topup.[9671054786][Yusuf Comm]</td><td>0.00</td><td>0.00</td><td>100232.61</td>
+		</tr><tr>
+			<td>12/14/2020 3:27:07 PM</td><td>T2020121414651</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>100232.61</td>
+		</tr><tr>
+			<td>12/14/2020 3:27:07 PM</td><td>T2020121414651</td><td>26c5a6d09628127b2a26acc8448d4Topup received </td><td>70000.00</td><td>0.00</td><td>100232.61</td>
+		</tr><tr>
+			<td>12/14/2020 2:42:04 PM</td><td>T2020121414353</td><td>Retailer Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>30000.00</td><td>30232.61</td>
+		</tr><tr>
+			<td>12/14/2020 2:42:04 PM</td><td>T2020121414353</td><td>Service Charge for Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>0.00</td><td>60232.61</td>
+		</tr><tr>
+			<td>12/14/2020 2:41:15 PM</td><td>T2020121414326</td><td>Retailer Topup.[9050055019][R P Telecom]</td><td>0.00</td><td>40000.00</td><td>60232.61</td>
+		</tr><tr>
+			<td>12/14/2020 2:41:15 PM</td><td>T2020121414326</td><td>Service Charge for Topup.[9050055019][R P Telecom]</td><td>0.00</td><td>0.00</td><td>100232.61</td>
+		</tr><tr>
+			<td>12/14/2020 2:36:03 PM</td><td>T2020121413602</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>100232.61</td>
+		</tr><tr>
+			<td>12/14/2020 2:36:03 PM</td><td>T2020121413602</td><td>1155e98308088cea1f25ab04033bdTopup received </td><td>100000.00</td><td>0.00</td><td>100232.61</td>
+		</tr><tr>
+			<td>12/14/2020 9:21:22 AM</td><td>T202012142019</td><td>Retailer Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>50000.00</td><td>232.61</td>
+		</tr><tr>
+			<td>12/14/2020 9:21:22 AM</td><td>T202012142019</td><td>Service Charge for Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>0.00</td><td>50232.61</td>
+		</tr><tr>
+			<td>12/14/2020 5:00:29 AM</td><td>1457782812827</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>4.62</td><td>0.00</td><td>50232.61</td>
+		</tr><tr>
+			<td>12/14/2020 4:16:02 AM</td><td>J20201214104924</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.17</td><td>50227.99</td>
+		</tr><tr>
+			<td>12/14/2020 1:18:12 AM</td><td>14656998121838</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>12.00</td><td>0.00</td><td>50228.16</td>
+		</tr><tr>
+			<td>12/14/2020 1:18:03 AM</td><td>14227381121838</td><td>Credit_Distributor_MicroATM_Commission_Yesterday</td><td>10.80</td><td>0.00</td><td>50216.16</td>
+		</tr><tr>
+			<td>12/14/2020 12:05:39 AM</td><td>DC202012147775</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>0.80</td><td>50205.36</td>
+		</tr><tr>
+			<td>12/14/2020 12:05:39 AM</td><td>DC202012147775</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>21.25</td><td>0.00</td><td>50206.16</td>
+		</tr><tr>
+			<td>12/14/2020 12:05:01 AM</td><td>DC20201214187</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>5.50</td><td>50184.91</td>
+		</tr><tr>
+			<td>12/14/2020 12:05:01 AM</td><td>DC20201214187</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>146.57</td><td>0.00</td><td>50190.41</td>
+		</tr><tr>
+			<td>12/13/2020 6:59:05 PM</td><td>T2020121316769</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>50000.00</td><td>50043.84</td>
+		</tr><tr>
+			<td>12/13/2020 6:59:05 PM</td><td>T2020121316769</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>100043.84</td>
+		</tr><tr>
+			<td>12/13/2020 6:33:57 PM</td><td>T2020121315795</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>100043.84</td>
+		</tr><tr>
+			<td>12/13/2020 6:33:57 PM</td><td>T2020121315795</td><td>130e837661046c65720786507c074Topup received </td><td>100000.00</td><td>0.00</td><td>100043.84</td>
+		</tr><tr>
+			<td>12/13/2020 3:08:07 PM</td><td>T2020121310932</td><td>Retailer Topup.[9253636001][Anuj Enterprises]</td><td>0.00</td><td>8000.00</td><td>43.84</td>
+		</tr><tr>
+			<td>12/13/2020 3:08:07 PM</td><td>T2020121310932</td><td>Service Charge for Topup.[9253636001][Anuj Enterprises]</td><td>0.00</td><td>0.00</td><td>8043.84</td>
+		</tr><tr>
+			<td>12/13/2020 5:00:21 AM</td><td>1326988412893</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>4.31</td><td>0.00</td><td>8043.84</td>
+		</tr><tr>
+			<td>12/13/2020 4:16:19 AM</td><td>J20201213105165</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.16</td><td>8039.53</td>
+		</tr><tr>
+			<td>12/13/2020 1:18:28 AM</td><td>13154893121877</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>27.60</td><td>0.00</td><td>8039.69</td>
+		</tr><tr>
+			<td>12/13/2020 1:18:03 AM</td><td>13289788121833</td><td>Credit_Distributor_MicroATM_Commission_Yesterday</td><td>7.68</td><td>0.00</td><td>8012.09</td>
+		</tr><tr>
+			<td>12/13/2020 12:05:19 AM</td><td>DC202012135422</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>0.70</td><td>8004.41</td>
+		</tr><tr>
+			<td>12/13/2020 12:05:19 AM</td><td>DC202012135422</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>18.70</td><td>0.00</td><td>8005.11</td>
+		</tr><tr>
+			<td>12/13/2020 12:05:03 AM</td><td>DC20201213371</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>7.09</td><td>7986.41</td>
+		</tr><tr>
+			<td>12/13/2020 12:05:03 AM</td><td>DC20201213371</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>189.02</td><td>0.00</td><td>7993.50</td>
+		</tr><tr>
+			<td>12/12/2020 4:38:59 PM</td><td>T2020121214217</td><td>Retailer Topup.[9253636001][Anuj Enterprises]</td><td>0.00</td><td>4000.00</td><td>7804.48</td>
+		</tr><tr>
+			<td>12/12/2020 4:38:59 PM</td><td>T2020121214217</td><td>Service Charge for Topup.[9253636001][Anuj Enterprises]</td><td>0.00</td><td>0.00</td><td>11804.48</td>
+		</tr><tr>
+			<td>12/12/2020 2:22:38 PM</td><td>T2020121210843</td><td>Retailer Topup.[8708350399][Bijender Telecom]</td><td>0.00</td><td>3000.00</td><td>11804.48</td>
+		</tr><tr>
+			<td>12/12/2020 2:22:38 PM</td><td>T2020121210843</td><td>Service Charge for Topup.[8708350399][Bijender Telecom]</td><td>0.00</td><td>0.00</td><td>14804.48</td>
+		</tr><tr>
+			<td>12/12/2020 10:31:18 AM</td><td>T202012123683</td><td>Retailer Topup.[9253636001][Anuj Enterprises]</td><td>0.00</td><td>10000.00</td><td>14804.48</td>
+		</tr><tr>
+			<td>12/12/2020 10:31:18 AM</td><td>T202012123683</td><td>Service Charge for Topup.[9253636001][Anuj Enterprises]</td><td>0.00</td><td>0.00</td><td>24804.48</td>
+		</tr><tr>
+			<td>12/12/2020 5:00:19 AM</td><td>1231966412867</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>2.80</td><td>0.00</td><td>24804.48</td>
+		</tr><tr>
+			<td>12/12/2020 4:16:11 AM</td><td>J20201212104852</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.10</td><td>24801.68</td>
+		</tr><tr>
+			<td>12/12/2020 2:00:02 AM</td><td>DD20201212457</td><td>Credit_Distributor_DMT_Remittance_TDS_Yesterday_Reversal</td><td>0.06</td><td>0.00</td><td>24801.78</td>
+		</tr><tr>
+			<td>12/12/2020 2:00:02 AM</td><td>DD20201212457</td><td>Debit_Distributor_DMT_Remittance_Commission_Yesterday_Reversal</td><td>0.00</td><td>1.60</td><td>24801.72</td>
+		</tr><tr>
+			<td>12/12/2020 1:18:26 AM</td><td>12982411121858</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>15.36</td><td>0.00</td><td>24803.32</td>
+		</tr><tr>
+			<td>12/12/2020 1:18:04 AM</td><td>12397788121848</td><td>Credit_Distributor_MicroATM_Commission_Yesterday</td><td>2.40</td><td>0.00</td><td>24787.96</td>
+		</tr><tr>
+			<td>12/12/2020 12:05:33 AM</td><td>DC202012126345</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>0.50</td><td>24785.56</td>
+		</tr><tr>
+			<td>12/12/2020 12:05:33 AM</td><td>DC202012126345</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>13.30</td><td>0.00</td><td>24786.06</td>
+		</tr><tr>
+			<td>12/12/2020 12:05:19 AM</td><td>DC202012123706</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>4.79</td><td>24772.76</td>
+		</tr><tr>
+			<td>12/12/2020 12:05:19 AM</td><td>DC202012123706</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>127.64</td><td>0.00</td><td>24777.55</td>
+		</tr><tr>
+			<td>12/11/2020 10:56:42 PM</td><td>T2020121124622</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>50000.00</td><td>24649.91</td>
+		</tr><tr>
+			<td>12/11/2020 10:56:42 PM</td><td>T2020121124622</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>74649.91</td>
+		</tr><tr>
+			<td>12/11/2020 8:30:41 PM</td><td>T2020121122133</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>40000.00</td><td>74649.91</td>
+		</tr><tr>
+			<td>12/11/2020 8:30:41 PM</td><td>T2020121122133</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>114649.91</td>
+		</tr><tr>
+			<td>12/11/2020 8:04:25 PM</td><td>T2020121121455</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>20000.00</td><td>114649.91</td>
+		</tr><tr>
+			<td>12/11/2020 8:04:25 PM</td><td>T2020121121455</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>134649.91</td>
+		</tr><tr>
+			<td>12/11/2020 7:06:00 PM</td><td>20201211697850</td><td>Debit_Distributor_DMT_Creditcard_TDS7700958500</td><td>0.00</td><td>0.04</td><td>134649.91</td>
+		</tr><tr>
+			<td>12/11/2020 7:06:00 PM</td><td>20201211697850</td><td>Credit_Distributor_DMT_Creditcard_Commission7700958500</td><td>1.00</td><td>0.00</td><td>134649.95</td>
+		</tr><tr>
+			<td>12/11/2020 2:26:08 PM</td><td>BBPSPAYU202012108395340912801157506</td><td>Credit_Distributor_Bill_Payment_Electricity_TDS_Reversal_7027257485</td><td>0.02</td><td>0.00</td><td>134648.97</td>
+		</tr><tr>
+			<td>12/11/2020 2:26:08 PM</td><td>BBPSPAYU202012108395340912801157506</td><td>Debit_Distributor_Bill_Payment_Electricity_Commission_Reversal_7027257485</td><td>0.00</td><td>0.50</td><td>134648.95</td>
+		</tr><tr>
+			<td>12/11/2020 2:26:08 PM</td><td>BBPSPAYU202012106234199287253996769</td><td>Credit_Distributor_Bill_Payment_Electricity_TDS_Reversal_7027257485</td><td>0.02</td><td>0.00</td><td>134649.47</td>
+		</tr><tr>
+			<td>12/11/2020 2:26:08 PM</td><td>BBPSPAYU202012106234199287253996769</td><td>Debit_Distributor_Bill_Payment_Electricity_Commission_Reversal_7027257485</td><td>0.00</td><td>0.50</td><td>134649.45</td>
+		</tr><tr>
+			<td>12/11/2020 1:31:28 PM</td><td>T2020121110142</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>4.00</td><td>134649.95</td>
+		</tr><tr>
+			<td>12/11/2020 1:31:28 PM</td><td>T2020121110142</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>134653.95</td>
+		</tr><tr>
+			<td>12/11/2020 12:29:48 PM</td><td>BBPSPAYU202012118951747431627304313</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9416286572</td><td>0.00</td><td>0.02</td><td>134653.95</td>
+		</tr><tr>
+			<td>12/11/2020 12:29:48 PM</td><td>BBPSPAYU202012118951747431627304313</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9416286572</td><td>0.50</td><td>0.00</td><td>134653.97</td>
+		</tr><tr>
+			<td>12/11/2020 12:27:46 PM</td><td>BBPSPAYU202012117598759994649875396</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9416286572</td><td>0.00</td><td>0.02</td><td>134653.47</td>
+		</tr><tr>
+			<td>12/11/2020 12:27:46 PM</td><td>BBPSPAYU202012117598759994649875396</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9416286572</td><td>0.50</td><td>0.00</td><td>134653.49</td>
+		</tr><tr>
+			<td>12/11/2020 12:07:30 PM</td><td>BBPSPAYU202012118678170954217658112</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9813124365</td><td>0.00</td><td>0.02</td><td>134652.99</td>
+		</tr><tr>
+			<td>12/11/2020 12:07:30 PM</td><td>BBPSPAYU202012118678170954217658112</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9813124365</td><td>0.50</td><td>0.00</td><td>134653.01</td>
+		</tr><tr>
+			<td>12/11/2020 10:50:54 AM</td><td>BBPSPAYU202012117499183102053041564</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9817146574</td><td>0.00</td><td>0.02</td><td>134652.51</td>
+		</tr><tr>
+			<td>12/11/2020 10:50:54 AM</td><td>BBPSPAYU202012117499183102053041564</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9817146574</td><td>0.50</td><td>0.00</td><td>134652.53</td>
+		</tr><tr>
+			<td>12/11/2020 10:34:06 AM</td><td>BBPSPAYU202012115045999660578609707</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9034365767</td><td>0.00</td><td>0.02</td><td>134652.03</td>
+		</tr><tr>
+			<td>12/11/2020 10:34:06 AM</td><td>BBPSPAYU202012115045999660578609707</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9034365767</td><td>0.50</td><td>0.00</td><td>134652.05</td>
+		</tr><tr>
+			<td>12/11/2020 10:31:13 AM</td><td>BBPSPAYU202012118675915894008288334</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9034365767</td><td>0.00</td><td>0.02</td><td>134651.55</td>
+		</tr><tr>
+			<td>12/11/2020 10:31:13 AM</td><td>BBPSPAYU202012118675915894008288334</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9034365767</td><td>0.50</td><td>0.00</td><td>134651.57</td>
+		</tr><tr>
+			<td>12/11/2020 9:50:18 AM</td><td>BBPSPAYU202012118149379988079177135</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9896728788</td><td>0.00</td><td>0.02</td><td>134651.07</td>
+		</tr><tr>
+			<td>12/11/2020 9:50:18 AM</td><td>BBPSPAYU202012118149379988079177135</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9896728788</td><td>0.50</td><td>0.00</td><td>134651.09</td>
+		</tr><tr>
+			<td>12/11/2020 9:43:03 AM</td><td>BBPSPAYU202012117093726352261967335</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_9896728788</td><td>0.00</td><td>0.02</td><td>134650.59</td>
+		</tr><tr>
+			<td>12/11/2020 9:43:03 AM</td><td>BBPSPAYU202012117093726352261967335</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_9896728788</td><td>0.50</td><td>0.00</td><td>134650.61</td>
+		</tr><tr>
+			<td>12/11/2020 5:00:38 AM</td><td>1169619712888</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>1.21</td><td>0.00</td><td>134650.11</td>
+		</tr><tr>
+			<td>12/11/2020 4:16:53 AM</td><td>J20201211104986</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.05</td><td>134648.90</td>
+		</tr><tr>
+			<td>12/11/2020 1:18:32 AM</td><td>11221881121838</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>11.52</td><td>0.00</td><td>134648.95</td>
+		</tr><tr>
+			<td>12/11/2020 1:18:03 AM</td><td>11211748121887</td><td>Credit_Distributor_MicroATM_Commission_Yesterday</td><td>9.36</td><td>0.00</td><td>134637.43</td>
+		</tr><tr>
+			<td>12/11/2020 12:05:27 AM</td><td>DC202012114915</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>1.64</td><td>134628.07</td>
+		</tr><tr>
+			<td>12/11/2020 12:05:27 AM</td><td>DC202012114915</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>43.70</td><td>0.00</td><td>134629.71</td>
+		</tr><tr>
+			<td>12/11/2020 12:05:01 AM</td><td>DC20201211191</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>3.18</td><td>134586.01</td>
+		</tr><tr>
+			<td>12/11/2020 12:05:01 AM</td><td>DC20201211191</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>84.90</td><td>0.00</td><td>134589.19</td>
+		</tr><tr>
+			<td>12/10/2020 12:55:50 PM</td><td>DNC202012101163</td><td>Non cash Debit For TDS</td><td>0.00</td><td>22.48</td><td>134504.29</td>
+		</tr><tr>
+			<td>12/10/2020 12:55:50 PM</td><td>DNC202012101163</td><td>Non cash Credit For Last Month</td><td>599.50</td><td>0.00</td><td>134526.77</td>
+		</tr><tr>
+			<td>12/10/2020 12:49:50 PM</td><td>BBPSPAYU202012106234199287253996769</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_7027257485</td><td>0.00</td><td>0.02</td><td>133927.27</td>
+		</tr><tr>
+			<td>12/10/2020 12:49:50 PM</td><td>BBPSPAYU202012106234199287253996769</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_7027257485</td><td>0.50</td><td>0.00</td><td>133927.29</td>
+		</tr><tr>
+			<td>12/10/2020 12:48:20 PM</td><td>BBPSPAYU202012108395340912801157506</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_7027257485</td><td>0.00</td><td>0.02</td><td>133926.79</td>
+		</tr><tr>
+			<td>12/10/2020 12:48:20 PM</td><td>BBPSPAYU202012108395340912801157506</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_7027257485</td><td>0.50</td><td>0.00</td><td>133926.81</td>
+		</tr><tr>
+			<td>12/10/2020 11:20:18 AM</td><td>T202012105927</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>133926.31</td>
+		</tr><tr>
+			<td>12/10/2020 11:20:18 AM</td><td>T202012105927</td><td>Mobile:8199999772  Bank Reference No:698428385865.2  Topup Date and Time:12/10/2020 11:20:18 AM Topup received </td><td>70000.00</td><td>0.00</td><td>133926.31</td>
+		</tr><tr>
+			<td>12/10/2020 5:00:20 AM</td><td>1838485912847</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>0.40</td><td>0.00</td><td>63926.31</td>
+		</tr><tr>
+			<td>12/10/2020 4:16:04 AM</td><td>J20201210104809</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.02</td><td>63925.91</td>
+		</tr><tr>
+			<td>12/10/2020 1:18:34 AM</td><td>18718243121858</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>29.76</td><td>0.00</td><td>63925.93</td>
+		</tr><tr>
+			<td>12/10/2020 12:05:36 AM</td><td>DC202012106211</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>5.53</td><td>63896.17</td>
+		</tr><tr>
+			<td>12/10/2020 12:05:36 AM</td><td>DC202012106211</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>147.41</td><td>0.00</td><td>63901.70</td>
+		</tr><tr>
+			<td>12/10/2020 12:05:01 AM</td><td>DC20201210185</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>6.88</td><td>63754.29</td>
+		</tr><tr>
+			<td>12/10/2020 12:05:01 AM</td><td>DC20201210185</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>183.52</td><td>0.00</td><td>63761.17</td>
+		</tr><tr>
+			<td>12/9/2020 8:15:10 AM</td><td>T20201209893</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>80000.00</td><td>63577.65</td>
+		</tr><tr>
+			<td>12/9/2020 8:15:10 AM</td><td>T20201209893</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>143577.65</td>
+		</tr><tr>
+			<td>12/9/2020 5:00:29 AM</td><td>918888912888</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>1.17</td><td>0.00</td><td>143577.65</td>
+		</tr><tr>
+			<td>12/9/2020 4:16:10 AM</td><td>J20201209105003</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.05</td><td>143576.48</td>
+		</tr><tr>
+			<td>12/9/2020 1:18:19 AM</td><td>9662869121893</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>14.88</td><td>0.00</td><td>143576.53</td>
+		</tr><tr>
+			<td>12/9/2020 1:18:03 AM</td><td>9918684121898</td><td>Credit_Distributor_MicroATM_Commission_Yesterday</td><td>3.84</td><td>0.00</td><td>143561.65</td>
+		</tr><tr>
+			<td>12/9/2020 12:05:37 AM</td><td>DC202012097035</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>2.03</td><td>143557.81</td>
+		</tr><tr>
+			<td>12/9/2020 12:05:37 AM</td><td>DC202012097035</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>54.15</td><td>0.00</td><td>143559.84</td>
+		</tr><tr>
+			<td>12/9/2020 12:05:03 AM</td><td>DC20201209405</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>15.29</td><td>143505.69</td>
+		</tr><tr>
+			<td>12/9/2020 12:05:03 AM</td><td>DC20201209405</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>407.74</td><td>0.00</td><td>143520.98</td>
+		</tr><tr>
+			<td>12/8/2020 7:32:53 PM</td><td>T2020120817575</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>143113.24</td>
+		</tr><tr>
+			<td>12/8/2020 7:32:53 PM</td><td>T2020120817575</td><td>Mobile:8199999772  Bank Reference No:698412145865.2  Topup Date and Time:12/8/2020 7:32:53 PM Topup received </td><td>80000.00</td><td>0.00</td><td>143113.24</td>
+		</tr><tr>
+			<td>12/8/2020 4:55:38 PM</td><td>T2020120813152</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>64500.00</td><td>63113.24</td>
+		</tr><tr>
+			<td>12/8/2020 4:55:38 PM</td><td>T2020120813152</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>127613.24</td>
+		</tr><tr>
+			<td>12/8/2020 4:11:19 PM</td><td>T2020120812068</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>127613.24</td>
+		</tr><tr>
+			<td>12/8/2020 4:11:19 PM</td><td>T2020120812068</td><td>Mobile:8199999772  Bank Reference No:698410860365.2  Topup Date and Time:12/8/2020 4:11:19 PM Topup received </td><td>80000.00</td><td>0.00</td><td>127613.24</td>
+		</tr><tr>
+			<td>12/8/2020 3:24:21 PM</td><td>T2020120810985</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>50000.00</td><td>47613.24</td>
+		</tr><tr>
+			<td>12/8/2020 3:24:21 PM</td><td>T2020120810985</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>97613.24</td>
+		</tr><tr>
+			<td>12/8/2020 3:02:28 PM</td><td>T2020120810571</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>97613.24</td>
+		</tr><tr>
+			<td>12/8/2020 3:02:28 PM</td><td>T2020120810571</td><td>Mobile:8199999772  Bank Reference No:698438049888.8  Topup Date and Time:12/8/2020 3:02:28 PM Topup received </td><td>50000.00</td><td>0.00</td><td>97613.24</td>
+		</tr><tr>
+			<td>12/8/2020 12:04:15 PM</td><td>T202012086225</td><td>Retailer Topup.[9050848382][Deepak Communation]</td><td>0.00</td><td>10000.00</td><td>47613.24</td>
+		</tr><tr>
+			<td>12/8/2020 12:04:15 PM</td><td>T202012086225</td><td>Service Charge for Topup.[9050848382][Deepak Communation]</td><td>0.00</td><td>0.00</td><td>57613.24</td>
+		</tr><tr>
+			<td>12/8/2020 11:37:17 AM</td><td>T202012085477</td><td>Retailer Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>20000.00</td><td>57613.24</td>
+		</tr><tr>
+			<td>12/8/2020 11:37:17 AM</td><td>T202012085477</td><td>Service Charge for Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>0.00</td><td>77613.24</td>
+		</tr><tr>
+			<td>12/8/2020 5:00:23 AM</td><td>854763612888</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>0.70</td><td>0.00</td><td>77613.24</td>
+		</tr><tr>
+			<td>12/8/2020 4:16:02 AM</td><td>J20201208104965</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.03</td><td>77612.54</td>
+		</tr><tr>
+			<td>12/8/2020 1:18:27 AM</td><td>8855897121883</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>12.72</td><td>0.00</td><td>77612.57</td>
+		</tr><tr>
+			<td>12/8/2020 1:18:03 AM</td><td>8492337121817</td><td>Credit_Distributor_MicroATM_Commission_Yesterday</td><td>11.76</td><td>0.00</td><td>77599.85</td>
+		</tr><tr>
+			<td>12/8/2020 12:05:30 AM</td><td>DC202012088351</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>0.46</td><td>77588.09</td>
+		</tr><tr>
+			<td>12/8/2020 12:05:30 AM</td><td>DC202012088351</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>12.35</td><td>0.00</td><td>77588.55</td>
+		</tr><tr>
+			<td>12/8/2020 12:05:01 AM</td><td>DC20201208203</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>2.34</td><td>77576.20</td>
+		</tr><tr>
+			<td>12/8/2020 12:05:01 AM</td><td>DC20201208203</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>62.34</td><td>0.00</td><td>77578.54</td>
+		</tr><tr>
+			<td>12/7/2020 6:34:34 PM</td><td>T2020120719657</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>30000.00</td><td>77516.20</td>
+		</tr><tr>
+			<td>12/7/2020 6:34:34 PM</td><td>T2020120719657</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>107516.20</td>
+		</tr><tr>
+			<td>12/7/2020 6:28:42 PM</td><td>T2020120719263</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>107516.20</td>
+		</tr><tr>
+			<td>12/7/2020 6:28:42 PM</td><td>T2020120719263</td><td>771d4da24fc8bc1a879fe18c9c6a9Topup received </td><td>100000.00</td><td>0.00</td><td>107516.20</td>
+		</tr><tr>
+			<td>12/7/2020 6:19:10 PM</td><td>T2020120719134</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>30000.00</td><td>7516.20</td>
+		</tr><tr>
+			<td>12/7/2020 6:19:10 PM</td><td>T2020120719134</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>37516.20</td>
+		</tr><tr>
+			<td>12/7/2020 10:42:46 AM</td><td>T202012074401</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>30000.00</td><td>37516.20</td>
+		</tr><tr>
+			<td>12/7/2020 10:42:46 AM</td><td>T202012074401</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>67516.20</td>
+		</tr><tr>
+			<td>12/7/2020 5:00:22 AM</td><td>741629612893</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>0.60</td><td>0.00</td><td>67516.20</td>
+		</tr><tr>
+			<td>12/7/2020 4:16:03 AM</td><td>J20201207104878</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.02</td><td>67515.60</td>
+		</tr><tr>
+			<td>12/7/2020 1:18:18 AM</td><td>7455844121878</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>4.32</td><td>0.00</td><td>67515.62</td>
+		</tr><tr>
+			<td>12/7/2020 1:18:03 AM</td><td>788777312188</td><td>Credit_Distributor_MicroATM_Commission_Yesterday</td><td>7.44</td><td>0.00</td><td>67511.30</td>
+		</tr><tr>
+			<td>12/7/2020 12:05:25 AM</td><td>DC202012075043</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>3.04</td><td>67503.86</td>
+		</tr><tr>
+			<td>12/7/2020 12:05:25 AM</td><td>DC202012075043</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>80.98</td><td>0.00</td><td>67506.90</td>
+		</tr><tr>
+			<td>12/7/2020 12:05:01 AM</td><td>DC20201207186</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>4.51</td><td>67425.92</td>
+		</tr><tr>
+			<td>12/7/2020 12:05:01 AM</td><td>DC20201207186</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>120.23</td><td>0.00</td><td>67430.43</td>
+		</tr><tr>
+			<td>12/6/2020 11:45:12 AM</td><td>T202012064902</td><td>Retailer Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>50000.00</td><td>67310.20</td>
+		</tr><tr>
+			<td>12/6/2020 11:45:12 AM</td><td>T202012064902</td><td>Service Charge for Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>0.00</td><td>117310.20</td>
+		</tr><tr>
+			<td>12/6/2020 11:11:40 AM</td><td>T202012062537</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>117310.20</td>
+		</tr><tr>
+			<td>12/6/2020 11:11:40 AM</td><td>T202012062537</td><td>08dc4f9632569c34d454816366da6Topup received </td><td>100000.00</td><td>0.00</td><td>117310.20</td>
+		</tr><tr>
+			<td>12/6/2020 10:06:11 AM</td><td>T202012062449</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>20000.00</td><td>17310.20</td>
+		</tr><tr>
+			<td>12/6/2020 10:06:11 AM</td><td>T202012062449</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>37310.20</td>
+		</tr><tr>
+			<td>12/6/2020 5:00:21 AM</td><td>618572712883</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>0.53</td><td>0.00</td><td>37310.20</td>
+		</tr><tr>
+			<td>12/6/2020 4:16:08 AM</td><td>J20201206104972</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.02</td><td>37309.67</td>
+		</tr><tr>
+			<td>12/6/2020 2:00:02 AM</td><td>DD20201206504</td><td>Credit_Distributor_DMT_Remittance_TDS_Yesterday_Reversal</td><td>0.06</td><td>0.00</td><td>37309.69</td>
+		</tr><tr>
+			<td>12/6/2020 2:00:02 AM</td><td>DD20201206504</td><td>Debit_Distributor_DMT_Remittance_Commission_Yesterday_Reversal</td><td>0.00</td><td>1.60</td><td>37309.63</td>
+		</tr><tr>
+			<td>12/6/2020 1:18:34 AM</td><td>6898374121878</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>11.52</td><td>0.00</td><td>37311.23</td>
+		</tr><tr>
+			<td>12/6/2020 1:18:04 AM</td><td>6417482121898</td><td>Credit_Distributor_MicroATM_Commission_Yesterday</td><td>0.72</td><td>0.00</td><td>37299.71</td>
+		</tr><tr>
+			<td>12/6/2020 12:05:38 AM</td><td>DC202012067226</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>1.12</td><td>37298.99</td>
+		</tr><tr>
+			<td>12/6/2020 12:05:38 AM</td><td>DC202012067226</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>29.80</td><td>0.00</td><td>37300.11</td>
+		</tr><tr>
+			<td>12/6/2020 12:05:02 AM</td><td>DC20201206195</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>1.56</td><td>37270.31</td>
+		</tr><tr>
+			<td>12/6/2020 12:05:02 AM</td><td>DC20201206195</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>41.50</td><td>0.00</td><td>37271.87</td>
+		</tr><tr>
+			<td>12/5/2020 7:09:37 PM</td><td>DBP202012054480</td><td>Debit_Distributor_8199999772</td><td>0.00</td><td>900.00</td><td>37230.37</td>
+		</tr><tr>
+			<td>12/5/2020 4:41:24 PM</td><td>T2020120513701</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>50000.00</td><td>38130.37</td>
+		</tr><tr>
+			<td>12/5/2020 4:41:24 PM</td><td>T2020120513701</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>88130.37</td>
+		</tr><tr>
+			<td>12/5/2020 1:17:51 PM</td><td>T202012058690</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>88130.37</td>
+		</tr><tr>
+			<td>12/5/2020 1:17:51 PM</td><td>T202012058690</td><td>Mobile:8199999772  Bank Reference No:698427091312.4  Topup Date and Time:12/5/2020 1:17:51 PM Topup received </td><td>50000.00</td><td>0.00</td><td>88130.37</td>
+		</tr><tr>
+			<td>12/5/2020 5:00:35 AM</td><td>582851412898</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>0.26</td><td>0.00</td><td>38130.37</td>
+		</tr><tr>
+			<td>12/5/2020 4:15:17 AM</td><td>J20201205104992</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.01</td><td>38130.11</td>
+		</tr><tr>
+			<td>12/5/2020 2:00:01 AM</td><td>DD20201205408</td><td>Credit_Distributor_DMT_Remittance_TDS_Yesterday_Reversal</td><td>0.06</td><td>0.00</td><td>38130.12</td>
+		</tr><tr>
+			<td>12/5/2020 2:00:01 AM</td><td>DD20201205408</td><td>Debit_Distributor_DMT_Remittance_Commission_Yesterday_Reversal</td><td>0.00</td><td>1.60</td><td>38130.06</td>
+		</tr><tr>
+			<td>12/5/2020 1:18:22 AM</td><td>5261552121853</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>4.56</td><td>0.00</td><td>38131.66</td>
+		</tr><tr>
+			<td>12/5/2020 1:18:03 AM</td><td>5828637121857</td><td>Credit_Distributor_MicroATM_Commission_Yesterday</td><td>0.72</td><td>0.00</td><td>38127.10</td>
+		</tr><tr>
+			<td>12/5/2020 12:05:32 AM</td><td>DC202012055692</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>1.75</td><td>38126.38</td>
+		</tr><tr>
+			<td>12/5/2020 12:05:32 AM</td><td>DC202012055692</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>46.71</td><td>0.00</td><td>38128.13</td>
+		</tr><tr>
+			<td>12/5/2020 12:05:01 AM</td><td>DC20201205197</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>6.88</td><td>38081.42</td>
+		</tr><tr>
+			<td>12/5/2020 12:05:01 AM</td><td>DC20201205197</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>183.50</td><td>0.00</td><td>38088.30</td>
+		</tr><tr>
+			<td>12/4/2020 6:17:13 PM</td><td>T2020120416482</td><td>Retailer Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>50000.00</td><td>37904.80</td>
+		</tr><tr>
+			<td>12/4/2020 6:17:13 PM</td><td>T2020120416482</td><td>Service Charge for Topup.[8685048773][Rani Comm]</td><td>0.00</td><td>0.00</td><td>87904.80</td>
+		</tr><tr>
+			<td>12/4/2020 6:15:04 PM</td><td>T2020120416429</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>87904.80</td>
+		</tr><tr>
+			<td>12/4/2020 6:15:04 PM</td><td>T2020120416429</td><td>Mobile:8199999772  Bank Reference No:698410830712.4  Topup Date and Time:12/4/2020 6:15:04 PM Topup received </td><td>50000.00</td><td>0.00</td><td>87904.80</td>
+		</tr><tr>
+			<td>12/4/2020 2:58:20 PM</td><td>9166515</td><td>Debit_Distributor_Bill_Payment_Electricity_TDS_8108339935</td><td>0.00</td><td>0.02</td><td>37904.80</td>
+		</tr><tr>
+			<td>12/4/2020 2:58:20 PM</td><td>9166515</td><td>Credit_Distributor_Bill_Payment_Electricity_Commission_8108339935</td><td>0.50</td><td>0.00</td><td>37904.82</td>
+		</tr><tr>
+			<td>12/4/2020 1:16:19 PM</td><td>T202012048821</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>30000.00</td><td>37904.32</td>
+		</tr><tr>
+			<td>12/4/2020 1:16:19 PM</td><td>T202012048821</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>67904.32</td>
+		</tr><tr>
+			<td>12/4/2020 11:09:50 AM</td><td>T202012044925</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>67904.32</td>
+		</tr><tr>
+			<td>12/4/2020 11:09:50 AM</td><td>T202012044925</td><td>Mobile:8199999772  Bank Reference No:698411569412.4  Topup Date and Time:12/4/2020 11:09:50 AM Topup received </td><td>50000.00</td><td>0.00</td><td>67904.32</td>
+		</tr><tr>
+			<td>12/4/2020 5:00:23 AM</td><td>454495112863</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>0.40</td><td>0.00</td><td>17904.32</td>
+		</tr><tr>
+			<td>12/4/2020 4:16:02 AM</td><td>J20201204104920</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.01</td><td>17903.92</td>
+		</tr><tr>
+			<td>12/4/2020 2:00:03 AM</td><td>DD20201204478</td><td>Credit_Distributor_DMT_Remittance_TDS_Yesterday_Reversal</td><td>0.06</td><td>0.00</td><td>17903.93</td>
+		</tr><tr>
+			<td>12/4/2020 2:00:03 AM</td><td>DD20201204478</td><td>Debit_Distributor_DMT_Remittance_Commission_Yesterday_Reversal</td><td>0.00</td><td>1.60</td><td>17903.87</td>
+		</tr><tr>
+			<td>12/4/2020 1:18:30 AM</td><td>4959434121893</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>6.24</td><td>0.00</td><td>17905.47</td>
+		</tr><tr>
+			<td>12/4/2020 12:05:36 AM</td><td>DC202012046621</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>0.52</td><td>17899.23</td>
+		</tr><tr>
+			<td>12/4/2020 12:05:36 AM</td><td>DC202012046621</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>13.95</td><td>0.00</td><td>17899.75</td>
+		</tr><tr>
+			<td>12/4/2020 12:05:09 AM</td><td>DC202012041762</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>3.04</td><td>17885.80</td>
+		</tr><tr>
+			<td>12/4/2020 12:05:09 AM</td><td>DC202012041762</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>81.12</td><td>0.00</td><td>17888.84</td>
+		</tr><tr>
+			<td>12/3/2020 2:52:09 PM</td><td>T2020120311897</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>11000.00</td><td>17807.72</td>
+		</tr><tr>
+			<td>12/3/2020 2:52:09 PM</td><td>T2020120311897</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>28807.72</td>
+		</tr><tr>
+			<td>12/3/2020 2:32:24 PM</td><td>T2020120311444</td><td>Retailer Topup.[9050055019][R P Telecom]</td><td>0.00</td><td>50000.00</td><td>28807.72</td>
+		</tr><tr>
+			<td>12/3/2020 2:32:24 PM</td><td>T2020120311444</td><td>Service Charge for Topup.[9050055019][R P Telecom]</td><td>0.00</td><td>0.00</td><td>78807.72</td>
+		</tr><tr>
+			<td>12/3/2020 11:35:21 AM</td><td>T202012036025</td><td>Retailer Topup.[9671054786][Yusuf Comm]</td><td>0.00</td><td>28000.00</td><td>78807.72</td>
+		</tr><tr>
+			<td>12/3/2020 11:35:21 AM</td><td>T202012036025</td><td>Service Charge for Topup.[9671054786][Yusuf Comm]</td><td>0.00</td><td>0.00</td><td>106807.72</td>
+		</tr><tr>
+			<td>12/3/2020 5:00:21 AM</td><td>358698812867</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>1.44</td><td>0.00</td><td>106807.72</td>
+		</tr><tr>
+			<td>12/3/2020 4:15:57 AM</td><td>J20201203105158</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.06</td><td>106806.28</td>
+		</tr><tr>
+			<td>12/3/2020 1:18:28 AM</td><td>3876832121823</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>8.16</td><td>0.00</td><td>106806.34</td>
+		</tr><tr>
+			<td>12/3/2020 1:18:04 AM</td><td>3347821121818</td><td>Credit_Distributor_MicroATM_Commission_Yesterday</td><td>1.92</td><td>0.00</td><td>106798.18</td>
+		</tr><tr>
+			<td>12/3/2020 12:05:29 AM</td><td>DC202012035571</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>2.06</td><td>106796.26</td>
+		</tr><tr>
+			<td>12/3/2020 12:05:29 AM</td><td>DC202012035571</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>54.84</td><td>0.00</td><td>106798.32</td>
+		</tr><tr>
+			<td>12/3/2020 12:05:08 AM</td><td>DC202012031726</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>4.20</td><td>106743.48</td>
+		</tr><tr>
+			<td>12/3/2020 12:05:08 AM</td><td>DC202012031726</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>112.11</td><td>0.00</td><td>106747.68</td>
+		</tr><tr>
+			<td>12/2/2020 2:26:31 PM</td><td>T2020120211263</td><td>Retailer Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>30000.00</td><td>106635.57</td>
+		</tr><tr>
+			<td>12/2/2020 2:26:31 PM</td><td>T2020120211263</td><td>Service Charge for Topup.[8168198007][Shiv Electronic]</td><td>0.00</td><td>0.00</td><td>136635.57</td>
+		</tr><tr>
+			<td>12/2/2020 5:00:19 AM</td><td>238855412827</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>0.90</td><td>0.00</td><td>136635.57</td>
+		</tr><tr>
+			<td>12/2/2020 4:16:02 AM</td><td>J20201202105065</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.04</td><td>136634.67</td>
+		</tr><tr>
+			<td>12/2/2020 1:18:45 AM</td><td>2491945121883</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>10.56</td><td>0.00</td><td>136634.71</td>
+		</tr><tr>
+			<td>12/2/2020 12:05:55 AM</td><td>DC202012027657</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>0.25</td><td>136624.15</td>
+		</tr><tr>
+			<td>12/2/2020 12:05:55 AM</td><td>DC202012027657</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>6.65</td><td>0.00</td><td>136624.40</td>
+		</tr><tr>
+			<td>12/2/2020 12:05:30 AM</td><td>DC202012024127</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>4.66</td><td>136617.75</td>
+		</tr><tr>
+			<td>12/2/2020 12:05:30 AM</td><td>DC202012024127</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>124.33</td><td>0.00</td><td>136622.41</td>
+		</tr><tr>
+			<td>12/1/2020 12:47:29 PM</td><td>T202012017095</td><td>Service Charge for Topup</td><td>0.00</td><td>0.00</td><td>136498.08</td>
+		</tr><tr>
+			<td>12/1/2020 12:47:29 PM</td><td>T202012017095</td><td>c6c6d9c2a6469c1e6259faa68866dTopup received </td><td>100000.00</td><td>0.00</td><td>136498.08</td>
+		</tr><tr>
+			<td>12/1/2020 11:34:15 AM</td><td>T202012016511</td><td>Retailer Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>50000.00</td><td>36498.08</td>
+		</tr><tr>
+			<td>12/1/2020 11:34:15 AM</td><td>T202012016511</td><td>Service Charge for Topup.[9813302982][Shri Ram Communication]</td><td>0.00</td><td>0.00</td><td>86498.08</td>
+		</tr><tr>
+			<td>12/1/2020 5:00:20 AM</td><td>167379812813</td><td>Credit_Distributor_Recharge_Commission_Yesterday</td><td>0.90</td><td>0.00</td><td>86498.08</td>
+		</tr><tr>
+			<td>12/1/2020 4:16:09 AM</td><td>J20201201104952</td><td>Debit_Distributor_Recharge_TDS_Yesterday</td><td>0.00</td><td>0.04</td><td>86497.18</td>
+		</tr><tr>
+			<td>12/1/2020 1:18:11 AM</td><td>1796766121847</td><td>Credit_Distributor_Aeps_Commission_Yesterday</td><td>4.56</td><td>0.00</td><td>86497.22</td>
+		</tr><tr>
+			<td>12/1/2020 12:05:45 AM</td><td>DC202012017793</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>0.38</td><td>86492.66</td>
+		</tr><tr>
+			<td>12/1/2020 12:05:45 AM</td><td>DC202012017793</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>10.15</td><td>0.00</td><td>86493.04</td>
+		</tr><tr>
+			<td>12/1/2020 12:05:02 AM</td><td>DC20201201190</td><td>Debit_Distributor_DMT_Remittance_TDS_Yesterday</td><td>0.00</td><td>8.99</td><td>86482.89</td>
+		</tr><tr>
+			<td>12/1/2020 12:05:02 AM</td><td>DC20201201190</td><td>Credit_Distributor_DMT_Remittance_Commission_Yesterday</td><td>239.63</td><td>0.00</td><td>86491.88</td>
+		</tr>
+	</table>
+</div>
